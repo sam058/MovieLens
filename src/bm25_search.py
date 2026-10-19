@@ -10,6 +10,12 @@ DATA_DIR = PROJECT_DIR / "data" / "ml-25m"
 DATA_PATH = DATA_DIR / "preprocessed_movies.csv"
 
 # 2. Load the movie data
+if not DATA_PATH.exists():
+    raise FileNotFoundError(
+        f"{DATA_PATH} not found. Run src/preprocessing.py and "
+        "src/text_preprocessing.py first (see README)."
+    )
+
 movies = pd.read_csv(DATA_PATH)
 movies["processed_text"] = movies["processed_text"].fillna("")
 

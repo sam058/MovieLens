@@ -2,12 +2,22 @@
 .venv/
 __pycache__/
 *.py[cod]
-.env
 
-# MovieLens dataset and generated data
+# API keys (TMDB_READ_ACCESS_TOKEN / TMDB_API_KEY)
+.env
+.env.*
+!.env.example
+
+# MovieLens dataset and generated data, including the fetched TMDB plots
+# (data/ml-25m/plots.csv) and the metadata index (data/ml-25m/movie_metadata.csv)
 data/
 models/
 *.npy
+
+# Tool caches and local settings
+.pytest_cache/
+.streamlit/secrets.toml
+.claude/
 
 # Editor and OS files
 .vscode/

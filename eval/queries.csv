@@ -1,0 +1,61 @@
+query_id,topic,query_type,query,n_relevant
+q01,time travel,keyword,time travel,86
+q02,time travel,paraphrase,going back in time to change the past,86
+q03,zombies,keyword,zombies,89
+q04,zombies,paraphrase,undead flesh eaters attacking survivors,89
+q05,vampires,keyword,vampires,108
+q06,vampires,paraphrase,bloodsucking creatures of the night,108
+q07,dystopia,keyword,dystopia,161
+q08,dystopia,paraphrase,oppressive totalitarian society of the future,161
+q09,artificial intelligence,keyword,artificial intelligence,30
+q10,artificial intelligence,paraphrase,computers that become self-aware and think for themselves,30
+q11,heist,keyword,heist,166
+q12,heist,paraphrase,a crew planning to rob a bank vault,166
+q13,serial killer,keyword,serial killer,311
+q14,serial killer,paraphrase,detective hunting a murderer who kills again and again,311
+q15,post-apocalyptic,keyword,post-apocalyptic,117
+q16,post-apocalyptic,paraphrase,survivors after nuclear war and the collapse of civilization,117
+q17,superhero,keyword,superhero,167
+q18,superhero,paraphrase,costumed heroes with special powers fighting villains,167
+q19,space travel,keyword,space travel,123
+q20,space travel,paraphrase,astronauts on a journey between planets,123
+q21,aliens,keyword,aliens,211
+q22,aliens,paraphrase,extraterrestrial visitors arriving on earth,211
+q23,pirates,keyword,pirates,32
+q24,pirates,paraphrase,buccaneers sailing the seas in search of treasure,32
+q25,dinosaurs,keyword,dinosaurs,32
+q26,dinosaurs,paraphrase,prehistoric reptiles brought back to life,32
+q27,martial arts,keyword,martial arts,221
+q28,martial arts,paraphrase,kung fu fighters and karate fights,221
+q29,world war ii,keyword,world war ii,282
+q30,world war ii,paraphrase,soldiers fighting the nazis in the 1940s,282
+q31,boxing,keyword,boxing,28
+q32,boxing,paraphrase,a fighter training for the big match in the ring,28
+q33,high school,keyword,high school,274
+q34,high school,paraphrase,"teenagers dealing with classes, proms and cliques",274
+q35,road trip,keyword,road trip,121
+q36,road trip,paraphrase,friends driving across the country together,121
+q37,christmas,keyword,christmas,106
+q38,christmas,paraphrase,holiday story in december with santa claus and presents,106
+q39,mafia,keyword,mafia,123
+q40,mafia,paraphrase,an organized crime family and its godfather,123
+q41,cyberpunk,keyword,cyberpunk,79
+q42,cyberpunk,paraphrase,hackers in a neon high-tech future ruled by corporations,79
+q43,courtroom drama,keyword,courtroom drama,27
+q44,courtroom drama,paraphrase,lawyers arguing a case before a judge and jury,27
+q45,submarine,keyword,submarine,26
+q46,submarine,paraphrase,naval crew trapped in a vessel under the ocean,26
+q47,robots,keyword,robots,91
+q48,robots,paraphrase,mechanical androids that act like humans,91
+q49,ghosts,keyword,ghosts,160
+q50,ghosts,paraphrase,haunted house with spirits of the dead,160
+q51,werewolves,keyword,werewolves,48
+q52,werewolves,paraphrase,a man who turns into a wolf under the full moon,48
+q53,spies,keyword,spies,144
+q54,spies,paraphrase,secret agents on an espionage mission,144
+q55,prison,keyword,prison,106
+q56,prison,paraphrase,inmates serving time behind bars trying to escape,106
+q57,wedding,keyword,wedding,48
+q58,wedding,paraphrase,bride and groom getting married,48
+q59,boarding school,keyword,boarding school,34
+q60,boarding school,paraphrase,students living away from home at an elite academy,34

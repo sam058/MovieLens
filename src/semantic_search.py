@@ -11,8 +11,17 @@ DATA_PATH = DATA_DIR / "processed_movies.csv"
 EMBEDDINGS_PATH = PROJECT_DIR / "models" / "movie_embeddings.npy"
 
 # 2. Load the movie data (readable text keeps the meaning the model needs)
+if not DATA_PATH.exists():
+    raise FileNotFoundError(
+        f"{DATA_PATH} not found. Run src/preprocessing.py first (see README)."
+    )
+
 movies = pd.read_csv(DATA_PATH)
-movies["text"] = movies["text"].fillna("")
+
+# Prefer the de-duplicated tag text (fits the model's 256-token window);
+# older CSVs without it fall back to the full text
+TEXT_COLUMN = "semantic_text" if "semantic_text" in movies.columns else "text"
+movies[TEXT_COLUMN] = movies[TEXT_COLUMN].fillna("")
 
 print("Loaded movies:", len(movies))
 
@@ -36,7 +45,7 @@ def load_embeddings():
 
     # Normalized vectors make the dot product equal to cosine similarity
     embeddings = model.encode(
-        movies["text"].tolist(),
+        movies[TEXT_COLUMN].tolist(),
         batch_size=64,
         show_progress_bar=True,
         normalize_embeddings=True,
@@ -58,7 +67,7 @@ def search_movies(query, top_k=10):
 
     score is the cosine similarity between query and movie text (-1 to 1).
     """
-    if not query.strip():
+    if not isinstance(query, str) or not query.strip():
         return []
 
     query_embedding = model.encode(query, normalize_embeddings=True)

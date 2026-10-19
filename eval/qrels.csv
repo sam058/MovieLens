@@ -1,0 +1,3552 @@
+topic,movieId,genome_relevance,grade
+aliens,196,0.98,2
+aliens,260,0.8567,1
+aliens,316,0.9382,2
+aliens,426,0.869,1
+aliens,435,0.9758,2
+aliens,512,0.9812,2
+aliens,748,0.9942,2
+aliens,780,0.9882,2
+aliens,1097,0.9642,2
+aliens,1127,0.9908,2
+aliens,1196,0.8438,1
+aliens,1200,0.9962,2
+aliens,1210,0.8853,1
+aliens,1214,0.9908,2
+aliens,1253,0.9448,2
+aliens,1255,0.966,2
+aliens,1301,0.8915,1
+aliens,1320,0.9922,2
+aliens,1356,0.933,2
+aliens,1371,0.8822,1
+aliens,1372,0.8778,1
+aliens,1373,0.8002,1
+aliens,1374,0.8202,1
+aliens,1375,0.877,1
+aliens,1376,0.8988,1
+aliens,1391,0.9535,2
+aliens,1527,0.9258,2
+aliens,1580,0.9908,2
+aliens,1584,0.9432,2
+aliens,1676,0.8222,1
+aliens,1690,0.994,2
+aliens,1862,0.9655,2
+aliens,1909,0.94,2
+aliens,1924,0.8458,1
+aliens,2046,0.9255,2
+aliens,2288,0.9338,2
+aliens,2311,0.8172,1
+aliens,2377,0.9572,2
+aliens,2393,0.9355,2
+aliens,2407,0.9882,2
+aliens,2428,0.9575,2
+aliens,2448,0.837,1
+aliens,2549,0.8738,1
+aliens,2628,0.8298,1
+aliens,2660,0.9375,2
+aliens,2661,0.985,2
+aliens,2662,0.93,2
+aliens,2664,0.9505,2
+aliens,2665,0.9952,2
+aliens,2666,0.922,2
+aliens,2709,0.8645,1
+aliens,2827,0.902,2
+aliens,3070,0.893,1
+aliens,3175,0.9782,2
+aliens,3300,0.981,2
+aliens,3326,0.876,1
+aliens,3354,0.8198,1
+aliens,3471,0.99,2
+aliens,3490,0.8018,1
+aliens,3527,0.9762,2
+aliens,3573,0.9512,2
+aliens,3576,0.973,2
+aliens,3658,0.899,1
+aliens,3659,0.9058,2
+aliens,3696,0.8598,1
+aliens,3697,0.865,1
+aliens,3699,0.972,2
+aliens,3700,0.9158,2
+aliens,3701,0.992,2
+aliens,3745,0.9205,2
+aliens,3758,0.9742,2
+aliens,3780,0.828,1
+aliens,4198,0.9422,2
+aliens,4343,0.9745,2
+aliens,4446,0.9298,2
+aliens,4492,0.9285,2
+aliens,4526,0.9852,2
+aliens,4553,0.9642,2
+aliens,4587,0.9698,2
+aliens,4618,0.8728,1
+aliens,4874,0.9428,2
+aliens,4942,0.943,2
+aliens,4952,0.961,2
+aliens,4982,0.8985,1
+aliens,5045,0.8778,1
+aliens,5046,0.9598,2
+aliens,5181,0.949,2
+aliens,5290,0.91,2
+aliens,5378,0.8412,1
+aliens,5444,0.821,1
+aliens,5459,0.97,2
+aliens,5468,0.874,1
+aliens,5502,0.984,2
+aliens,5596,0.9852,2
+aliens,5746,0.962,2
+aliens,5858,0.8902,1
+aliens,5944,0.8235,1
+aliens,5983,0.9792,2
+aliens,6094,0.8953,1
+aliens,6184,0.854,1
+aliens,6208,0.9652,2
+aliens,6250,0.9735,2
+aliens,6835,0.9238,2
+aliens,6882,0.8547,1
+aliens,6949,0.8492,1
+aliens,7001,0.9442,2
+aliens,7185,0.8527,1
+aliens,7266,0.8092,1
+aliens,7481,0.9615,2
+aliens,7743,0.9825,2
+aliens,8169,0.8392,1
+aliens,8447,0.947,2
+aliens,8578,0.8252,1
+aliens,8633,0.9735,2
+aliens,8810,0.9948,2
+aliens,8870,0.9698,2
+aliens,8896,0.972,2
+aliens,9005,0.9712,2
+aliens,26285,0.8875,1
+aliens,26629,0.822,1
+aliens,31555,0.9815,2
+aliens,31894,0.8618,1
+aliens,32239,0.9802,2
+aliens,32898,0.8075,1
+aliens,33801,0.9218,2
+aliens,34048,0.965,2
+aliens,36363,0.9318,2
+aliens,44243,0.94,2
+aliens,44671,0.9498,2
+aliens,44828,0.8467,1
+aliens,53996,0.8305,1
+aliens,54771,0.9285,2
+aliens,56801,0.9918,2
+aliens,57873,0.9262,2
+aliens,59615,0.8982,1
+aliens,60516,0.8993,1
+aliens,61692,0.989,2
+aliens,62834,0.9332,2
+aliens,63433,0.9052,2
+aliens,64497,0.955,2
+aliens,64997,0.9715,2
+aliens,65982,0.9532,2
+aliens,66789,0.8242,1
+aliens,67197,0.899,1
+aliens,67408,0.9748,2
+aliens,70282,0.9698,2
+aliens,70286,0.9878,2
+aliens,70305,0.976,2
+aliens,71135,0.8933,1
+aliens,71318,0.9418,2
+aliens,72043,0.9532,2
+aliens,72393,0.9728,2
+aliens,72701,0.981,2
+aliens,72777,0.8965,1
+aliens,72998,0.8825,1
+aliens,79057,0.9782,2
+aliens,80917,0.9598,2
+aliens,82095,0.988,2
+aliens,83613,0.9952,2
+aliens,84772,0.9768,2
+aliens,85056,0.9358,2
+aliens,85131,0.9915,2
+aliens,86982,0.94,2
+aliens,87192,0.9668,2
+aliens,87306,0.9358,2
+aliens,87430,0.891,1
+aliens,89745,0.8255,1
+aliens,90345,0.9255,2
+aliens,91304,0.8913,1
+aliens,91660,0.9895,2
+aliens,92192,0.932,2
+aliens,93363,0.9402,2
+aliens,94018,0.991,2
+aliens,94777,0.969,2
+aliens,94864,0.9832,2
+aliens,95720,0.897,1
+aliens,100611,0.9742,2
+aliens,100810,0.9802,2
+aliens,101577,0.934,2
+aliens,101864,0.8958,1
+aliens,102070,0.8828,1
+aliens,102445,0.834,1
+aliens,103228,0.835,1
+aliens,103306,0.8702,1
+aliens,104243,0.9315,2
+aliens,106002,0.8662,1
+aliens,109733,0.8547,1
+aliens,111759,0.9735,2
+aliens,112852,0.8308,1
+aliens,112868,0.8385,1
+aliens,113071,0.9178,2
+aliens,115471,0.9772,2
+aliens,121111,0.9905,2
+aliens,123288,0.9432,2
+aliens,127315,0.9862,2
+aliens,130520,0.9218,2
+aliens,133377,0.9145,2
+aliens,135137,0.8672,1
+aliens,135567,0.9912,2
+aliens,135569,0.9115,2
+aliens,135885,0.8808,1
+aliens,144734,0.91,2
+aliens,148172,0.9848,2
+aliens,149650,0.8905,1
+aliens,152077,0.896,1
+aliens,164179,0.9852,2
+aliens,168722,0.9798,2
+aliens,169864,0.9415,2
+aliens,169984,0.9925,2
+aliens,173291,0.938,2
+aliens,174423,0.9875,2
+artificial intelligence,76,0.802,1
+artificial intelligence,541,0.802,1
+artificial intelligence,589,0.8042,1
+artificial intelligence,1240,0.8775,1
+artificial intelligence,2527,0.9368,2
+artificial intelligence,2571,0.8002,1
+artificial intelligence,3156,0.9558,2
+artificial intelligence,4370,0.9482,2
+artificial intelligence,4545,0.9242,2
+artificial intelligence,5445,0.8105,1
+artificial intelligence,5756,0.8487,1
+artificial intelligence,6365,0.853,1
+artificial intelligence,6934,0.8578,1
+artificial intelligence,8644,0.964,2
+artificial intelligence,9004,0.9025,2
+artificial intelligence,26203,0.8168,1
+artificial intelligence,60069,0.848,1
+artificial intelligence,68791,0.8135,1
+artificial intelligence,71530,0.87,1
+artificial intelligence,89945,0.8893,1
+artificial intelligence,94810,0.8835,1
+artificial intelligence,96655,0.8795,1
+artificial intelligence,98019,0.854,1
+artificial intelligence,106920,0.8152,1
+artificial intelligence,110407,0.9502,2
+artificial intelligence,110730,0.9038,2
+artificial intelligence,114847,0.9748,2
+artificial intelligence,115713,0.9628,2
+artificial intelligence,120466,0.9682,2
+artificial intelligence,158956,0.977,2
+boarding school,262,0.9425,2
+boarding school,703,0.8938,1
+boarding school,917,0.8205,1
+boarding school,1246,0.928,2
+boarding school,1913,0.8085,1
+boarding school,1919,0.9078,2
+boarding school,2285,0.867,1
+boarding school,2836,0.814,1
+boarding school,3132,0.8607,1
+boarding school,4389,0.9108,2
+boarding school,4896,0.976,2
+boarding school,5637,0.9398,2
+boarding school,5816,0.9695,2
+boarding school,5843,0.8522,1
+boarding school,5963,0.891,1
+boarding school,7624,0.9115,2
+boarding school,8128,0.9345,2
+boarding school,8368,0.961,2
+boarding school,27700,0.9685,2
+boarding school,27815,0.9395,2
+boarding school,37955,0.921,2
+boarding school,40815,0.9718,2
+boarding school,50183,0.8845,1
+boarding school,54001,0.9605,2
+boarding school,57183,0.872,1
+boarding school,60141,0.8038,1
+boarding school,65193,0.9528,2
+boarding school,69844,0.93,2
+boarding school,77841,0.8412,1
+boarding school,81834,0.9492,2
+boarding school,83798,0.974,2
+boarding school,88125,0.8918,1
+boarding school,114700,0.8578,1
+boarding school,171141,0.9438,2
+boxing,1228,0.8495,1
+boxing,1954,0.9188,2
+boxing,2409,0.9785,2
+boxing,2410,0.9732,2
+boxing,2411,0.9598,2
+boxing,2412,0.9098,2
+boxing,2444,0.9125,2
+boxing,2824,0.96,2
+boxing,3178,0.8125,1
+boxing,3915,0.8882,1
+boxing,5009,0.8322,1
+boxing,5289,0.9208,2
+boxing,5398,0.9455,2
+boxing,7315,0.8835,1
+boxing,8132,0.8915,1
+boxing,8752,0.9385,2
+boxing,26770,0.91,2
+boxing,30707,0.8547,1
+boxing,33660,0.9252,2
+boxing,33905,0.944,2
+boxing,49651,0.9125,2
+boxing,58622,0.814,1
+boxing,69458,0.8235,1
+boxing,79760,0.941,2
+boxing,81932,0.9128,2
+boxing,89774,0.8352,1
+boxing,139642,0.9155,2
+boxing,146656,0.9342,2
+christmas,96,0.8162,1
+christmas,189,0.9568,2
+christmas,275,0.9928,2
+christmas,277,0.963,2
+christmas,317,0.999,2
+christmas,514,0.99,2
+christmas,551,0.9395,2
+christmas,586,0.986,2
+christmas,918,0.8198,1
+christmas,1099,0.9835,2
+christmas,1311,0.9932,2
+christmas,1359,0.9978,2
+christmas,1363,0.9382,2
+christmas,2003,0.953,2
+christmas,2083,0.9688,2
+christmas,2086,0.9995,2
+christmas,2339,0.998,2
+christmas,2392,0.985,2
+christmas,2398,0.9975,2
+christmas,2399,0.9995,2
+christmas,2400,0.9992,2
+christmas,2423,0.9978,2
+christmas,2804,0.9962,2
+christmas,2953,0.9712,2
+christmas,3061,0.9152,2
+christmas,3086,0.8068,1
+christmas,3087,0.9945,2
+christmas,3097,0.919,2
+christmas,3316,0.8168,1
+christmas,3675,0.9925,2
+christmas,3988,0.9972,2
+christmas,4184,0.9788,2
+christmas,4401,0.8192,1
+christmas,4502,0.9995,2
+christmas,5078,0.8232,1
+christmas,5804,0.9955,2
+christmas,5874,0.8282,1
+christmas,6119,0.9195,2
+christmas,6849,0.9848,2
+christmas,6936,0.9962,2
+christmas,6957,0.9945,2
+christmas,7041,0.9782,2
+christmas,7289,0.9445,2
+christmas,8492,0.9842,2
+christmas,8574,0.9948,2
+christmas,8607,0.8385,1
+christmas,8935,0.993,2
+christmas,8946,0.9988,2
+christmas,8965,0.992,2
+christmas,8978,0.9998,2
+christmas,26133,0.9972,2
+christmas,26523,0.9772,2
+christmas,30659,0.9962,2
+christmas,32469,0.9805,2
+christmas,40414,0.9788,2
+christmas,40959,0.9465,2
+christmas,41573,0.8958,1
+christmas,42518,0.9988,2
+christmas,44779,0.9942,2
+christmas,49013,0.9952,2
+christmas,49282,0.9998,2
+christmas,49286,0.8112,1
+christmas,49524,0.824,1
+christmas,49642,0.987,2
+christmas,50147,0.901,2
+christmas,52435,0.998,2
+christmas,52730,0.9592,2
+christmas,55955,0.9985,2
+christmas,56945,0.9992,2
+christmas,57041,0.9745,2
+christmas,60803,0.9955,2
+christmas,63329,0.9975,2
+christmas,63446,0.924,2
+christmas,64032,0.9968,2
+christmas,64249,0.9995,2
+christmas,72294,0.983,2
+christmas,72603,0.993,2
+christmas,72692,0.9998,2
+christmas,73854,0.9948,2
+christmas,82242,0.9952,2
+christmas,88954,0.9925,2
+christmas,91414,0.998,2
+christmas,91488,0.9878,2
+christmas,91821,0.9852,2
+christmas,95839,0.988,2
+christmas,114760,0.8375,1
+christmas,117368,0.995,2
+christmas,117922,0.9982,2
+christmas,119964,0.999,2
+christmas,128679,0.9955,2
+christmas,135534,0.9932,2
+christmas,136542,0.998,2
+christmas,136588,0.9852,2
+christmas,142422,0.9872,2
+christmas,142925,0.9885,2
+christmas,147022,0.9942,2
+christmas,148238,0.9988,2
+christmas,157881,0.9442,2
+christmas,165645,0.979,2
+christmas,166492,0.967,2
+christmas,168910,0.996,2
+christmas,172577,0.9532,2
+christmas,179953,0.996,2
+christmas,180231,0.9852,2
+christmas,180737,0.9982,2
+christmas,181601,0.961,2
+courtroom drama,508,0.8032,1
+courtroom drama,628,0.9525,2
+courtroom drama,805,0.9382,2
+courtroom drama,1203,0.9022,2
+courtroom drama,1672,0.8928,1
+courtroom drama,2268,0.9588,2
+courtroom drama,2433,0.877,1
+courtroom drama,3068,0.944,2
+courtroom drama,3102,0.891,1
+courtroom drama,3420,0.9322,2
+courtroom drama,3469,0.9372,2
+courtroom drama,3801,0.977,2
+courtroom drama,3811,0.891,1
+courtroom drama,4332,0.891,1
+courtroom drama,4465,0.9058,2
+courtroom drama,5008,0.9652,2
+courtroom drama,6454,0.8398,1
+courtroom drama,6525,0.8728,1
+courtroom drama,6777,0.9358,2
+courtroom drama,6879,0.856,1
+courtroom drama,7018,0.887,1
+courtroom drama,32058,0.9658,2
+courtroom drama,47287,0.8467,1
+courtroom drama,52604,0.8953,1
+courtroom drama,84392,0.8445,1
+courtroom drama,101850,0.8928,1
+courtroom drama,162730,0.9788,2
+cyberpunk,76,0.9492,2
+cyberpunk,170,0.9855,2
+cyberpunk,172,0.9995,2
+cyberpunk,173,0.9588,2
+cyberpunk,198,0.9945,2
+cyberpunk,327,0.8732,1
+cyberpunk,338,0.9732,2
+cyberpunk,541,0.9808,2
+cyberpunk,741,0.9972,2
+cyberpunk,1037,0.963,2
+cyberpunk,1129,0.868,1
+cyberpunk,1240,0.8815,1
+cyberpunk,1274,0.9858,2
+cyberpunk,1306,0.968,2
+cyberpunk,1676,0.8028,1
+cyberpunk,2105,0.986,2
+cyberpunk,2527,0.868,1
+cyberpunk,2571,0.9915,2
+cyberpunk,2600,0.9085,2
+cyberpunk,2672,0.8913,1
+cyberpunk,2892,0.99,2
+cyberpunk,2916,0.8898,1
+cyberpunk,2985,0.9508,2
+cyberpunk,3802,0.9825,2
+cyberpunk,4552,0.9655,2
+cyberpunk,4580,0.8298,1
+cyberpunk,4850,0.971,2
+cyberpunk,5046,0.8202,1
+cyberpunk,5054,0.9588,2
+cyberpunk,5146,0.8965,1
+cyberpunk,5235,0.9418,2
+cyberpunk,6365,0.9402,2
+cyberpunk,6645,0.8388,1
+cyberpunk,6790,0.9775,2
+cyberpunk,6934,0.9462,2
+cyberpunk,6968,0.8925,1
+cyberpunk,7163,0.844,1
+cyberpunk,7827,0.9135,2
+cyberpunk,8134,0.9885,2
+cyberpunk,8644,0.8045,1
+cyberpunk,8800,0.851,1
+cyberpunk,26554,0.8915,1
+cyberpunk,26985,0.9995,2
+cyberpunk,27608,0.9628,2
+cyberpunk,27728,0.9888,2
+cyberpunk,27905,0.845,1
+cyberpunk,31184,0.9918,2
+cyberpunk,31660,0.9565,2
+cyberpunk,33294,0.9568,2
+cyberpunk,34292,0.9955,2
+cyberpunk,37386,0.932,2
+cyberpunk,44849,0.9458,2
+cyberpunk,57772,0.976,2
+cyberpunk,61210,0.819,1
+cyberpunk,61350,0.9308,2
+cyberpunk,71057,0.823,1
+cyberpunk,71530,0.829,1
+cyberpunk,72630,0.921,2
+cyberpunk,74731,0.9808,2
+cyberpunk,75985,0.8678,1
+cyberpunk,77709,0.818,1
+cyberpunk,82461,0.8332,1
+cyberpunk,85179,0.924,2
+cyberpunk,96415,0.939,2
+cyberpunk,98019,0.9745,2
+cyberpunk,98607,0.9452,2
+cyberpunk,101864,0.904,2
+cyberpunk,103253,0.838,1
+cyberpunk,110407,0.9815,2
+cyberpunk,114847,0.9708,2
+cyberpunk,115713,0.8725,1
+cyberpunk,120466,0.9245,2
+cyberpunk,129779,0.9925,2
+cyberpunk,138212,0.8993,1
+cyberpunk,151781,0.9968,2
+cyberpunk,157961,0.9785,2
+cyberpunk,158956,0.9938,2
+cyberpunk,168612,0.9938,2
+cyberpunk,169400,0.963,2
+dinosaurs,480,0.9855,2
+dinosaurs,546,0.8475,1
+dinosaurs,634,0.9152,2
+dinosaurs,1544,0.9885,2
+dinosaurs,1826,0.8762,1
+dinosaurs,1882,0.8038,1
+dinosaurs,2366,0.8888,1
+dinosaurs,3400,0.9785,2
+dinosaurs,3401,0.9415,2
+dinosaurs,3572,0.9888,2
+dinosaurs,3573,0.9935,2
+dinosaurs,3574,0.9972,2
+dinosaurs,3615,0.9808,2
+dinosaurs,4277,0.9775,2
+dinosaurs,4445,0.9712,2
+dinosaurs,4519,0.936,2
+dinosaurs,4638,0.9898,2
+dinosaurs,4953,0.881,1
+dinosaurs,6152,0.9125,2
+dinosaurs,7389,0.984,2
+dinosaurs,25802,0.9202,2
+dinosaurs,27618,0.9342,2
+dinosaurs,41569,0.919,2
+dinosaurs,60514,0.856,1
+dinosaurs,64167,0.9742,2
+dinosaurs,69278,0.8382,1
+dinosaurs,69453,0.9672,2
+dinosaurs,69644,0.9545,2
+dinosaurs,117529,0.9872,2
+dinosaurs,120474,0.9738,2
+dinosaurs,136016,0.9292,2
+dinosaurs,160569,0.8118,1
+dystopia,29,0.88,1
+dystopia,32,0.944,2
+dystopia,172,0.977,2
+dystopia,173,0.965,2
+dystopia,198,0.945,2
+dystopia,208,0.9415,2
+dystopia,327,0.833,1
+dystopia,442,0.9548,2
+dystopia,541,0.949,2
+dystopia,589,0.8018,1
+dystopia,680,0.8465,1
+dystopia,741,0.932,2
+dystopia,1077,0.8215,1
+dystopia,1129,0.9452,2
+dystopia,1175,0.9085,2
+dystopia,1199,0.9532,2
+dystopia,1206,0.8385,1
+dystopia,1232,0.8242,1
+dystopia,1240,0.8868,1
+dystopia,1274,0.9465,2
+dystopia,1320,0.805,1
+dystopia,1527,0.8072,1
+dystopia,1653,0.9588,2
+dystopia,1726,0.8355,1
+dystopia,1748,0.922,2
+dystopia,2009,0.9708,2
+dystopia,2010,0.9485,2
+dystopia,2117,0.9655,2
+dystopia,2256,0.9518,2
+dystopia,2322,0.909,2
+dystopia,2527,0.971,2
+dystopia,2528,0.9778,2
+dystopia,2529,0.808,1
+dystopia,2530,0.8873,1
+dystopia,2531,0.9425,2
+dystopia,2532,0.908,2
+dystopia,2533,0.896,1
+dystopia,2571,0.918,2
+dystopia,2916,0.8338,1
+dystopia,2985,0.952,2
+dystopia,3032,0.9618,2
+dystopia,3156,0.9222,2
+dystopia,3698,0.9002,2
+dystopia,3702,0.9358,2
+dystopia,3703,0.9068,2
+dystopia,3704,0.9478,2
+dystopia,3802,0.9772,2
+dystopia,3959,0.911,2
+dystopia,4092,0.8662,1
+dystopia,4370,0.852,1
+dystopia,4553,0.859,1
+dystopia,4691,0.8245,1
+dystopia,5410,0.919,2
+dystopia,5445,0.918,2
+dystopia,5463,0.9175,2
+dystopia,5522,0.9738,2
+dystopia,5903,0.9675,2
+dystopia,6305,0.9482,2
+dystopia,6365,0.9288,2
+dystopia,6645,0.967,2
+dystopia,6678,0.8913,1
+dystopia,6790,0.9278,2
+dystopia,6934,0.911,2
+dystopia,7099,0.906,2
+dystopia,7236,0.832,1
+dystopia,7817,0.9095,2
+dystopia,7991,0.91,2
+dystopia,8134,0.9168,2
+dystopia,8371,0.8882,1
+dystopia,8644,0.8562,1
+dystopia,8800,0.8215,1
+dystopia,26513,0.8578,1
+dystopia,26985,0.9265,2
+dystopia,27608,0.8998,1
+dystopia,27728,0.8325,1
+dystopia,27904,0.8492,1
+dystopia,27905,0.851,1
+dystopia,33294,0.86,1
+dystopia,33834,0.8788,1
+dystopia,34292,0.949,2
+dystopia,34319,0.9458,2
+dystopia,37386,0.9498,2
+dystopia,43928,0.866,1
+dystopia,44191,0.9172,2
+dystopia,47997,0.9298,2
+dystopia,48774,0.9672,2
+dystopia,50011,0.8908,1
+dystopia,55232,0.9208,2
+dystopia,56003,0.8355,1
+dystopia,56174,0.8678,1
+dystopia,58297,0.9072,2
+dystopia,59594,0.8268,1
+dystopia,60069,0.895,1
+dystopia,60684,0.8008,1
+dystopia,61350,0.9728,2
+dystopia,62049,0.9732,2
+dystopia,62376,0.9215,2
+dystopia,63072,0.8825,1
+dystopia,68791,0.884,1
+dystopia,71057,0.893,1
+dystopia,71254,0.9138,2
+dystopia,71530,0.9322,2
+dystopia,73268,0.9545,2
+dystopia,73321,0.9065,2
+dystopia,74731,0.8655,1
+dystopia,75985,0.8722,1
+dystopia,80363,0.8132,1
+dystopia,80969,0.8035,1
+dystopia,82461,0.8805,1
+dystopia,86835,0.9702,2
+dystopia,88744,0.8555,1
+dystopia,90405,0.9655,2
+dystopia,91500,0.9288,2
+dystopia,93610,0.9005,2
+dystopia,95875,0.9548,2
+dystopia,96610,0.8888,1
+dystopia,96737,0.961,2
+dystopia,97752,0.8965,1
+dystopia,97946,0.859,1
+dystopia,101864,0.914,2
+dystopia,103249,0.8188,1
+dystopia,103253,0.978,2
+dystopia,103727,0.9605,2
+dystopia,106487,0.961,2
+dystopia,106920,0.8592,1
+dystopia,107406,0.9635,2
+dystopia,108190,0.9655,2
+dystopia,108945,0.8675,1
+dystopia,109187,0.962,2
+dystopia,109487,0.8768,1
+dystopia,110407,0.9448,2
+dystopia,110730,0.8655,1
+dystopia,112623,0.916,2
+dystopia,113378,0.9665,2
+dystopia,114180,0.9652,2
+dystopia,114847,0.9855,2
+dystopia,115235,0.9168,2
+dystopia,116823,0.938,2
+dystopia,117895,0.9632,2
+dystopia,120466,0.8005,1
+dystopia,122882,0.9365,2
+dystopia,127218,0.8145,1
+dystopia,130490,0.9708,2
+dystopia,132046,0.8602,1
+dystopia,133771,0.8575,1
+dystopia,135133,0.8645,1
+dystopia,135141,0.9502,2
+dystopia,140820,0.983,2
+dystopia,142420,0.802,1
+dystopia,142424,0.8795,1
+dystopia,143365,0.9328,2
+dystopia,148172,0.8088,1
+dystopia,158956,0.9382,2
+dystopia,168498,0.8172,1
+dystopia,168612,0.8652,1
+dystopia,173145,0.907,2
+dystopia,176371,0.8422,1
+dystopia,178907,0.8712,1
+dystopia,182637,0.945,2
+dystopia,189203,0.8138,1
+dystopia,197175,0.8138,1
+ghosts,158,0.9945,2
+ghosts,587,0.9902,2
+ghosts,799,0.993,2
+ghosts,943,0.968,2
+ghosts,1076,0.9872,2
+ghosts,1099,0.936,2
+ghosts,1128,0.973,2
+ghosts,1258,0.8295,1
+ghosts,1323,0.8112,1
+ghosts,1994,0.983,2
+ghosts,1995,0.9728,2
+ghosts,1996,0.9248,2
+ghosts,2083,0.9285,2
+ghosts,2148,0.8428,1
+ghosts,2174,0.9858,2
+ghosts,2350,0.9182,2
+ghosts,2519,0.976,2
+ghosts,2550,0.9645,2
+ghosts,2716,0.9895,2
+ghosts,2717,0.9465,2
+ghosts,2719,0.8995,1
+ghosts,2762,0.9532,2
+ghosts,2841,0.9825,2
+ghosts,2995,0.9575,2
+ghosts,3087,0.9672,2
+ghosts,3466,0.912,2
+ghosts,3560,0.8215,1
+ghosts,3798,0.913,2
+ghosts,3832,0.8172,1
+ghosts,3960,0.9898,2
+ghosts,4511,0.993,2
+ghosts,4517,0.9792,2
+ghosts,4720,0.9782,2
+ghosts,4786,0.9425,2
+ghosts,4792,0.9958,2
+ghosts,4833,0.9858,2
+ghosts,4876,0.9988,2
+ghosts,4902,0.9935,2
+ghosts,5034,0.8198,1
+ghosts,5228,0.9618,2
+ghosts,5663,0.983,2
+ghosts,5731,0.9222,2
+ghosts,5749,0.892,1
+ghosts,5784,0.9748,2
+ghosts,6090,0.984,2
+ghosts,6909,0.9868,2
+ghosts,6952,0.9918,2
+ghosts,6958,0.9792,2
+ghosts,7564,0.9695,2
+ghosts,7646,0.9378,2
+ghosts,7675,0.9488,2
+ghosts,8019,0.9178,2
+ghosts,8199,0.8715,1
+ghosts,8492,0.929,2
+ghosts,8903,0.8385,1
+ghosts,8947,0.9768,2
+ghosts,25842,0.9595,2
+ghosts,26606,0.9795,2
+ghosts,26686,0.8718,1
+ghosts,27434,0.828,1
+ghosts,27491,0.9908,2
+ghosts,27772,0.978,2
+ghosts,27784,0.9885,2
+ghosts,27798,0.9775,2
+ghosts,30894,0.9252,2
+ghosts,33085,0.9432,2
+ghosts,33587,0.994,2
+ghosts,34143,0.9525,2
+ghosts,39400,0.9828,2
+ghosts,42761,0.9538,2
+ghosts,43589,0.8705,1
+ghosts,43932,0.9708,2
+ghosts,44800,0.9498,2
+ghosts,45003,0.9645,2
+ghosts,45361,0.9598,2
+ghosts,46912,0.8708,1
+ghosts,47714,0.9572,2
+ghosts,48591,0.9355,2
+ghosts,50800,0.9882,2
+ghosts,51666,0.9298,2
+ghosts,51927,0.817,1
+ghosts,53953,0.9082,2
+ghosts,54605,0.9185,2
+ghosts,54738,0.9875,2
+ghosts,55492,0.8425,1
+ghosts,56339,0.9765,2
+ghosts,57520,0.8302,1
+ghosts,57534,0.9632,2
+ghosts,57538,0.9285,2
+ghosts,59715,0.9672,2
+ghosts,60463,0.9052,2
+ghosts,61373,0.9945,2
+ghosts,61729,0.9822,2
+ghosts,61948,0.995,2
+ghosts,65813,0.855,1
+ghosts,65882,0.9348,2
+ghosts,66066,0.976,2
+ghosts,67186,0.9738,2
+ghosts,67898,0.988,2
+ghosts,69606,0.8578,1
+ghosts,71379,0.804,1
+ghosts,72294,0.9755,2
+ghosts,79929,0.9585,2
+ghosts,80844,0.956,2
+ghosts,81751,0.8447,1
+ghosts,82633,0.9312,2
+ghosts,85788,0.9732,2
+ghosts,89570,0.8198,1
+ghosts,90469,0.935,2
+ghosts,92309,0.9938,2
+ghosts,92391,0.9948,2
+ghosts,92422,0.9865,2
+ghosts,93126,0.8652,1
+ghosts,93475,0.9972,2
+ghosts,94867,0.8853,1
+ghosts,95839,0.9392,2
+ghosts,96281,0.9295,2
+ghosts,96510,0.8848,1
+ghosts,96634,0.893,1
+ghosts,99787,0.8338,1
+ghosts,99912,0.9818,2
+ghosts,100359,0.9922,2
+ghosts,103688,0.8495,1
+ghosts,104908,0.972,2
+ghosts,106870,0.9375,2
+ghosts,107436,0.9435,2
+ghosts,111856,0.8445,1
+ghosts,112277,0.9868,2
+ghosts,113252,0.8498,1
+ghosts,113640,0.9108,2
+ghosts,114680,0.9802,2
+ghosts,115534,0.942,2
+ghosts,117893,0.9682,2
+ghosts,119065,0.9578,2
+ghosts,120825,0.9522,2
+ghosts,122884,0.896,1
+ghosts,127088,0.984,2
+ghosts,128838,0.9935,2
+ghosts,129372,0.877,1
+ghosts,130448,0.9462,2
+ghosts,130684,0.953,2
+ghosts,135643,0.8842,1
+ghosts,136247,0.9252,2
+ghosts,136542,0.933,2
+ghosts,140529,0.917,2
+ghosts,141420,0.8612,1
+ghosts,142598,0.8035,1
+ghosts,142604,0.9658,2
+ghosts,144982,0.959,2
+ghosts,150294,0.892,1
+ghosts,151735,0.9415,2
+ghosts,152838,0.8232,1
+ghosts,155545,0.9785,2
+ghosts,159696,0.8828,1
+ghosts,160080,0.9145,2
+ghosts,160571,0.8578,1
+ghosts,165601,0.8645,1
+ghosts,168610,0.846,1
+ghosts,169764,0.8688,1
+ghosts,175199,0.8465,1
+heist,6,0.957,2
+heist,42,0.9198,2
+heist,50,0.941,2
+heist,101,0.9605,2
+heist,335,0.922,2
+heist,482,0.967,2
+heist,648,0.8,1
+heist,866,0.9028,2
+heist,1079,0.9042,2
+heist,1089,0.9818,2
+heist,1112,0.9325,2
+heist,1213,0.824,1
+heist,1234,0.9608,2
+heist,1351,0.982,2
+heist,1396,0.857,1
+heist,1472,0.9712,2
+heist,1729,0.8705,1
+heist,1804,0.871,1
+heist,1912,0.958,2
+heist,2128,0.8898,1
+heist,2199,0.9192,2
+heist,2542,0.8893,1
+heist,2605,0.985,2
+heist,2726,0.994,2
+heist,2763,0.9422,2
+heist,2764,0.9948,2
+heist,2842,0.8235,1
+heist,3304,0.8622,1
+heist,3316,0.8245,1
+heist,3362,0.9588,2
+heist,3364,0.994,2
+heist,3384,0.9242,2
+heist,3537,0.9785,2
+heist,3717,0.9195,2
+heist,3769,0.9812,2
+heist,3783,0.8605,1
+heist,3860,0.9095,2
+heist,4011,0.95,2
+heist,4038,0.8408,1
+heist,4298,0.9982,2
+heist,4378,0.9598,2
+heist,4395,0.8735,1
+heist,4448,0.9972,2
+heist,4583,0.8138,1
+heist,4593,0.9362,2
+heist,4844,0.9685,2
+heist,4889,0.999,2
+heist,4907,0.9255,2
+heist,4954,0.9958,2
+heist,4963,0.9972,2
+heist,5007,0.9942,2
+heist,5319,0.9668,2
+heist,5333,0.987,2
+heist,5516,0.8212,1
+heist,5602,0.9342,2
+heist,5603,0.9905,2
+heist,5636,0.9858,2
+heist,5809,0.9252,2
+heist,5867,0.9448,2
+heist,6023,0.8215,1
+heist,6067,0.8088,1
+heist,6279,0.999,2
+heist,6322,0.992,2
+heist,6378,0.9962,2
+heist,6451,0.9895,2
+heist,6486,0.857,1
+heist,6708,0.8268,1
+heist,6893,0.9952,2
+heist,6920,0.9952,2
+heist,6990,0.993,2
+heist,7028,0.9485,2
+heist,7031,0.891,1
+heist,7201,0.888,1
+heist,7216,0.971,2
+heist,7258,0.8962,1
+heist,7262,0.8808,1
+heist,7348,0.83,1
+heist,7367,0.8088,1
+heist,7414,0.9485,2
+heist,7943,0.9642,2
+heist,8016,0.9652,2
+heist,8033,0.9892,2
+heist,8117,0.8152,1
+heist,8491,0.9722,2
+heist,8751,0.8348,1
+heist,8768,0.9912,2
+heist,8862,0.9005,2
+heist,8968,0.9832,2
+heist,8984,0.9965,2
+heist,26117,0.8175,1
+heist,26283,0.9658,2
+heist,27695,0.864,1
+heist,27754,0.9982,2
+heist,31590,0.893,1
+heist,34063,0.9955,2
+heist,34696,0.9922,2
+heist,37785,0.9965,2
+heist,41585,0.9175,2
+heist,41941,0.9902,2
+heist,44199,0.9942,2
+heist,47254,0.9708,2
+heist,52241,0.9788,2
+heist,52495,0.8492,1
+heist,53322,0.9948,2
+heist,53766,0.954,2
+heist,55805,0.8538,1
+heist,56015,0.9872,2
+heist,57353,0.9885,2
+heist,57370,0.9925,2
+heist,58295,0.9948,2
+heist,62849,0.938,2
+heist,65596,0.8185,1
+heist,66691,0.9905,2
+heist,68848,0.9008,2
+heist,70497,0.9318,2
+heist,70670,0.9858,2
+heist,70849,0.9682,2
+heist,72762,0.9892,2
+heist,77293,0.961,2
+heist,77672,0.8288,1
+heist,79132,0.836,1
+heist,80489,0.9865,2
+heist,86644,0.943,2
+heist,87785,0.998,2
+heist,88129,0.8018,1
+heist,90600,0.924,2
+heist,90717,0.99,2
+heist,91474,0.9898,2
+heist,91842,0.9262,2
+heist,91978,0.9915,2
+heist,95133,0.8865,1
+heist,95939,0.923,2
+heist,96655,0.8685,1
+heist,97860,0.9568,2
+heist,98054,0.9688,2
+heist,98296,0.9055,2
+heist,99633,0.9128,2
+heist,100108,0.9712,2
+heist,101741,0.984,2
+heist,101761,0.9795,2
+heist,102716,0.8028,1
+heist,102903,0.9695,2
+heist,103883,0.8775,1
+heist,104518,0.996,2
+heist,105343,0.997,2
+heist,108949,0.9945,2
+heist,111734,0.9618,2
+heist,120783,0.982,2
+heist,122900,0.821,1
+heist,129354,0.953,2
+heist,130083,0.8312,1
+heist,146900,0.9968,2
+heist,150602,0.8938,1
+heist,152061,0.9878,2
+heist,156706,0.9922,2
+heist,157432,0.809,1
+heist,159093,0.9645,2
+heist,160684,0.9575,2
+heist,161582,0.9598,2
+heist,162478,0.8342,1
+heist,166020,0.804,1
+heist,170403,0.928,2
+heist,171763,0.9825,2
+heist,173879,0.8115,1
+heist,174727,0.9532,2
+heist,174909,0.9962,2
+high school,31,0.8853,1
+high school,39,0.979,2
+high school,246,0.856,1
+high school,409,0.9065,2
+high school,441,0.9802,2
+high school,502,0.8492,1
+high school,700,0.992,2
+high school,706,0.8858,1
+high school,724,0.972,2
+high school,833,0.9902,2
+high school,1103,0.8278,1
+high school,1257,0.9455,2
+high school,1268,0.9872,2
+high school,1285,0.9778,2
+high school,1290,0.9778,2
+high school,1345,0.912,2
+high school,1380,0.946,2
+high school,1381,0.8072,1
+high school,1407,0.8095,1
+high school,1500,0.9192,2
+high school,1513,0.9888,2
+high school,1609,0.952,2
+high school,1644,0.8938,1
+high school,1895,0.9928,2
+high school,1968,0.9808,2
+high school,1987,0.9378,2
+high school,1988,0.962,2
+high school,1989,0.9618,2
+high school,1990,0.8182,1
+high school,2026,0.9765,2
+high school,2134,0.977,2
+high school,2144,0.9852,2
+high school,2145,0.9788,2
+high school,2240,0.9932,2
+high school,2248,0.9505,2
+high school,2428,0.9628,2
+high school,2447,0.9905,2
+high school,2464,0.8948,1
+high school,2485,0.991,2
+high school,2500,0.987,2
+high school,2541,0.9218,2
+high school,2548,0.9692,2
+high school,2572,0.983,2
+high school,2581,0.9955,2
+high school,2599,0.9692,2
+high school,2607,0.805,1
+high school,2623,0.9942,2
+high school,2706,0.9842,2
+high school,2772,0.934,2
+high school,2806,0.971,2
+high school,2888,0.9938,2
+high school,2915,0.9375,2
+high school,2918,0.9672,2
+high school,3050,0.8222,1
+high school,3063,0.8165,1
+high school,3071,0.943,2
+high school,3210,0.986,2
+high school,3243,0.9882,2
+high school,3264,0.915,2
+high school,3296,0.8495,1
+high school,3331,0.8785,1
+high school,3360,0.9582,2
+high school,3454,0.9928,2
+high school,3480,0.9825,2
+high school,3554,0.9365,2
+high school,3619,0.8638,1
+high school,3688,0.9855,2
+high school,3689,0.8152,1
+high school,3690,0.9218,2
+high school,3691,0.9078,2
+high school,3773,0.8358,1
+high school,3791,0.918,2
+high school,3882,0.9928,2
+high school,3900,0.8222,1
+high school,3915,0.882,1
+high school,3916,0.9265,2
+high school,3921,0.8512,1
+high school,4019,0.842,1
+high school,4068,0.986,2
+high school,4091,0.9945,2
+high school,4115,0.9952,2
+high school,4127,0.9695,2
+high school,4168,0.98,2
+high school,4182,0.8865,1
+high school,4204,0.9948,2
+high school,4214,0.9502,2
+high school,4218,0.9282,2
+high school,4221,0.8125,1
+high school,4314,0.8942,1
+high school,4372,0.9878,2
+high school,4516,0.889,1
+high school,4530,0.9438,2
+high school,4571,0.9062,2
+high school,4616,0.954,2
+high school,4641,0.922,2
+high school,4700,0.912,2
+high school,4745,0.9332,2
+high school,4755,0.9792,2
+high school,4828,0.8372,1
+high school,4936,0.9568,2
+high school,4974,0.9708,2
+high school,5066,0.8627,1
+high school,5068,0.8712,1
+high school,5106,0.9665,2
+high school,5226,0.9785,2
+high school,5306,0.914,2
+high school,5312,0.8595,1
+high school,5363,0.99,2
+high school,5457,0.8675,1
+high school,5521,0.8405,1
+high school,5557,0.9835,2
+high school,5564,0.9872,2
+high school,5752,0.804,1
+high school,5843,0.9578,2
+high school,5935,0.9182,2
+high school,6036,0.8195,1
+high school,6092,0.834,1
+high school,6153,0.9935,2
+high school,6288,0.8215,1
+high school,6315,0.983,2
+high school,6334,0.9565,2
+high school,6549,0.982,2
+high school,6593,0.873,1
+high school,6689,0.935,2
+high school,6701,0.973,2
+high school,6704,0.9498,2
+high school,6816,0.994,2
+high school,6820,0.8432,1
+high school,6890,0.9018,2
+high school,7026,0.9842,2
+high school,7036,0.988,2
+high school,7258,0.9198,2
+high school,7316,0.9828,2
+high school,7317,0.9045,2
+high school,7340,0.987,2
+high school,7346,0.9752,2
+high school,7444,0.8685,1
+high school,7451,0.989,2
+high school,7624,0.9712,2
+high school,7625,0.8558,1
+high school,7773,0.9905,2
+high school,7916,0.8338,1
+high school,8366,0.923,2
+high school,8376,0.865,1
+high school,8451,0.9782,2
+high school,8642,0.9922,2
+high school,8643,0.9788,2
+high school,8709,0.8128,1
+high school,8937,0.955,2
+high school,26561,0.9842,2
+high school,26710,0.8688,1
+high school,27170,0.9538,2
+high school,27369,0.8438,1
+high school,27685,0.981,2
+high school,31225,0.9695,2
+high school,32914,0.8185,1
+high school,33188,0.905,2
+high school,34129,0.9012,2
+high school,34332,0.9508,2
+high school,34523,0.8555,1
+high school,34540,0.9428,2
+high school,35636,0.9745,2
+high school,36513,0.9685,2
+high school,36537,0.859,1
+high school,38538,0.9698,2
+high school,39421,0.9938,2
+high school,40581,0.957,2
+high school,43906,0.9795,2
+high school,44193,0.9605,2
+high school,44613,0.9222,2
+high school,44761,0.9395,2
+high school,45221,0.9152,2
+high school,46062,0.997,2
+high school,46772,0.8108,1
+high school,46912,0.921,2
+high school,47122,0.9868,2
+high school,47503,0.983,2
+high school,49060,0.9118,2
+high school,49910,0.9088,2
+high school,50954,0.9458,2
+high school,51520,0.8418,1
+high school,52712,0.9185,2
+high school,53133,0.8005,1
+high school,54281,0.976,2
+high school,54290,0.9918,2
+high school,54503,0.972,2
+high school,54745,0.985,2
+high school,56367,0.8507,1
+high school,58554,0.8808,1
+high school,58627,0.9412,2
+high school,58655,0.9745,2
+high school,59014,0.8395,1
+high school,59404,0.8567,1
+high school,59738,0.9632,2
+high school,60763,0.9882,2
+high school,61123,0.9945,2
+high school,61246,0.8692,1
+high school,62644,0.88,1
+high school,62912,0.996,2
+high school,63479,0.9042,2
+high school,65193,0.8328,1
+high school,67168,0.8745,1
+high school,68135,0.9922,2
+high school,69069,0.8408,1
+high school,69685,0.8748,1
+high school,70643,0.9035,2
+high school,70663,0.9935,2
+high school,71205,0.9638,2
+high school,71550,0.986,2
+high school,71700,0.9025,2
+high school,73462,0.8192,1
+high school,73515,0.9778,2
+high school,76753,0.9695,2
+high school,80549,0.9872,2
+high school,80858,0.9095,2
+high school,85056,0.8388,1
+high school,87485,0.836,1
+high school,88706,0.9738,2
+high school,88746,0.9202,2
+high school,88837,0.9425,2
+high school,89194,0.993,2
+high school,91266,0.9102,2
+high school,91622,0.9245,2
+high school,92439,0.9708,2
+high school,93270,0.9625,2
+high school,93510,0.9795,2
+high school,93831,0.8165,1
+high school,95237,0.9578,2
+high school,96821,0.9622,2
+high school,96975,0.9615,2
+high school,97836,0.826,1
+high school,97908,0.9572,2
+high school,98230,0.885,1
+high school,99178,0.9518,2
+high school,101258,0.9598,2
+high school,101262,0.9768,2
+high school,101415,0.958,2
+high school,103048,0.886,1
+high school,103539,0.9675,2
+high school,105731,0.898,1
+high school,107083,0.96,2
+high school,110809,0.8692,1
+high school,111387,0.9868,2
+high school,112138,0.845,1
+high school,112767,0.9168,2
+high school,117308,0.8945,1
+high school,119068,0.869,1
+high school,126548,0.9912,2
+high school,127096,0.876,1
+high school,127198,0.8858,1
+high school,127202,0.921,2
+high school,128512,0.9772,2
+high school,128592,0.8172,1
+high school,129820,0.9782,2
+high school,131389,0.9718,2
+high school,133867,0.993,2
+high school,135278,0.8085,1
+high school,137457,0.9112,2
+high school,138610,0.979,2
+high school,140747,0.907,2
+high school,143257,0.8662,1
+high school,144734,0.8515,1
+high school,156387,0.8288,1
+high school,161922,0.9682,2
+high school,164735,0.9335,2
+high school,166291,0.8048,1
+high school,167634,0.93,2
+high school,170745,0.9505,2
+high school,171581,0.8378,1
+high school,171583,0.8358,1
+high school,173429,0.9032,2
+high school,175649,0.9392,2
+high school,179285,0.817,1
+high school,190949,0.8125,1
+mafia,16,0.995,2
+mafia,79,0.954,2
+mafia,81,0.9348,2
+mafia,255,0.8375,1
+mafia,428,0.9965,2
+mafia,431,0.9895,2
+mafia,555,0.8485,1
+mafia,858,0.9882,2
+mafia,866,0.9495,2
+mafia,1114,0.9712,2
+mafia,1213,0.9988,2
+mafia,1221,0.9692,2
+mafia,1227,0.837,1
+mafia,1245,0.9905,2
+mafia,1466,0.9988,2
+mafia,1503,0.958,2
+mafia,1601,0.985,2
+mafia,1785,0.9578,2
+mafia,1799,0.946,2
+mafia,2023,0.9595,2
+mafia,2027,0.9935,2
+mafia,2194,0.9792,2
+mafia,2247,0.986,2
+mafia,2249,0.9855,2
+mafia,2281,0.8078,1
+mafia,2307,0.9135,2
+mafia,2539,0.9965,2
+mafia,2543,0.911,2
+mafia,2805,0.9115,2
+mafia,3275,0.8522,1
+mafia,3301,0.9175,2
+mafia,3328,0.974,2
+mafia,3613,0.998,2
+mafia,3685,0.9928,2
+mafia,4262,0.979,2
+mafia,4295,0.918,2
+mafia,4452,0.8375,1
+mafia,4579,0.9845,2
+mafia,4640,0.9658,2
+mafia,4714,0.9452,2
+mafia,4717,0.893,1
+mafia,4907,0.9935,2
+mafia,4955,0.9045,2
+mafia,5179,0.8328,1
+mafia,5198,0.9298,2
+mafia,5395,0.9445,2
+mafia,5423,0.8978,1
+mafia,5424,0.8592,1
+mafia,5464,0.9512,2
+mafia,5665,0.9808,2
+mafia,5689,0.8888,1
+mafia,5692,0.809,1
+mafia,5867,0.921,2
+mafia,5888,0.916,2
+mafia,5900,0.9598,2
+mafia,5987,0.8018,1
+mafia,6475,0.842,1
+mafia,6651,0.8772,1
+mafia,6797,0.979,2
+mafia,6860,0.963,2
+mafia,6977,0.8808,1
+mafia,6997,0.9575,2
+mafia,7056,0.9902,2
+mafia,7201,0.9718,2
+mafia,7310,0.8962,1
+mafia,7922,0.9968,2
+mafia,7949,0.8032,1
+mafia,8042,0.963,2
+mafia,8600,0.8607,1
+mafia,8733,0.9262,2
+mafia,25773,0.969,2
+mafia,25788,0.9872,2
+mafia,25855,0.8388,1
+mafia,26283,0.9688,2
+mafia,26698,0.848,1
+mafia,26704,0.9765,2
+mafia,26732,0.9308,2
+mafia,26774,0.8772,1
+mafia,27408,0.8118,1
+mafia,27856,0.9255,2
+mafia,38095,0.9462,2
+mafia,42634,0.948,2
+mafia,43983,0.982,2
+mafia,44197,0.9945,2
+mafia,44665,0.848,1
+mafia,48516,0.9295,2
+mafia,49615,0.9662,2
+mafia,50794,0.9615,2
+mafia,51312,0.886,1
+mafia,51503,0.9852,2
+mafia,55118,0.982,2
+mafia,55391,0.9965,2
+mafia,55765,0.9855,2
+mafia,62250,0.988,2
+mafia,65596,0.8948,1
+mafia,66744,0.9522,2
+mafia,73344,0.9488,2
+mafia,78003,0.9635,2
+mafia,80398,0.9608,2
+mafia,82093,0.852,1
+mafia,83525,0.8228,1
+mafia,84844,0.8595,1
+mafia,86628,0.9985,2
+mafia,97860,0.9565,2
+mafia,99728,0.928,2
+mafia,99750,0.9782,2
+mafia,99964,0.935,2
+mafia,103849,0.9538,2
+mafia,104518,0.871,1
+mafia,104925,0.955,2
+mafia,110501,0.811,1
+mafia,112171,0.897,1
+mafia,113250,0.8012,1
+mafia,114060,0.8922,1
+mafia,115149,0.93,2
+mafia,115965,0.938,2
+mafia,118898,0.9452,2
+mafia,136018,0.9965,2
+mafia,141688,0.9072,2
+mafia,145064,0.9952,2
+mafia,150194,0.8212,1
+mafia,166532,0.9258,2
+mafia,168248,0.827,1
+martial arts,44,0.997,2
+martial arts,112,0.9972,2
+martial arts,379,0.9742,2
+martial arts,393,0.9772,2
+martial arts,464,0.9822,2
+martial arts,502,0.9698,2
+martial arts,667,0.9992,2
+martial arts,704,0.9988,2
+martial arts,861,0.9968,2
+martial arts,876,0.9995,2
+martial arts,980,0.9505,2
+martial arts,1170,0.9625,2
+martial arts,1429,0.9992,2
+martial arts,1497,0.9912,2
+martial arts,1626,0.8088,1
+martial arts,1681,0.9868,2
+martial arts,1858,0.998,2
+martial arts,1918,0.9598,2
+martial arts,2196,0.9732,2
+martial arts,2258,0.9752,2
+martial arts,2273,0.9918,2
+martial arts,2420,0.9885,2
+martial arts,2421,0.979,2
+martial arts,2422,0.979,2
+martial arts,2477,0.9865,2
+martial arts,2571,0.8768,1
+martial arts,2582,0.998,2
+martial arts,2625,0.9988,2
+martial arts,2807,0.882,1
+martial arts,2879,0.9705,2
+martial arts,2880,0.9935,2
+martial arts,2924,1.0,2
+martial arts,3438,0.96,2
+martial arts,3440,0.869,1
+martial arts,3444,0.9998,2
+martial arts,3452,0.9998,2
+martial arts,3624,0.9972,2
+martial arts,3740,0.983,2
+martial arts,3972,0.9995,2
+martial arts,3977,0.9305,2
+martial arts,3996,0.9992,2
+martial arts,4200,0.9975,2
+martial arts,4387,0.9878,2
+martial arts,4438,0.9995,2
+martial arts,4440,0.9998,2
+martial arts,4441,0.9998,2
+martial arts,4442,0.9998,2
+martial arts,4444,0.9998,2
+martial arts,4466,0.9982,2
+martial arts,4565,0.9982,2
+martial arts,4566,0.9808,2
+martial arts,4567,0.9932,2
+martial arts,4568,1.0,2
+martial arts,4569,0.9832,2
+martial arts,4574,0.9968,2
+martial arts,4580,0.9852,2
+martial arts,4614,0.9988,2
+martial arts,4701,0.9938,2
+martial arts,4717,0.9995,2
+martial arts,4756,0.8108,1
+martial arts,4846,1.0,2
+martial arts,4887,0.9985,2
+martial arts,4946,0.8885,1
+martial arts,4949,0.8615,1
+martial arts,4950,0.9938,2
+martial arts,4986,0.9802,2
+martial arts,5026,0.9935,2
+martial arts,5047,0.9878,2
+martial arts,5055,0.9995,2
+martial arts,5212,0.9942,2
+martial arts,5243,0.9938,2
+martial arts,5409,0.9488,2
+martial arts,5574,0.9632,2
+martial arts,5598,0.9905,2
+martial arts,5609,0.867,1
+martial arts,5621,0.9948,2
+martial arts,5730,0.9965,2
+martial arts,5903,0.9482,2
+martial arts,6156,0.9932,2
+martial arts,6196,0.9525,2
+martial arts,6210,0.9008,2
+martial arts,6294,0.998,2
+martial arts,6365,0.9572,2
+martial arts,6577,0.9985,2
+martial arts,6582,0.998,2
+martial arts,6583,0.9022,2
+martial arts,6618,0.9988,2
+martial arts,6642,0.8105,1
+martial arts,6686,0.9952,2
+martial arts,6714,0.9955,2
+martial arts,6721,1.0,2
+martial arts,6722,1.0,2
+martial arts,6723,0.9998,2
+martial arts,6857,0.828,1
+martial arts,6874,0.978,2
+martial arts,6934,0.8825,1
+martial arts,7090,0.9978,2
+martial arts,7108,0.846,1
+martial arts,7192,0.9998,2
+martial arts,7438,0.9668,2
+martial arts,7482,1.0,2
+martial arts,7657,0.8092,1
+martial arts,7844,0.9998,2
+martial arts,7892,0.9995,2
+martial arts,7893,0.9992,2
+martial arts,7899,0.9975,2
+martial arts,7915,0.9325,2
+martial arts,8370,0.932,2
+martial arts,8526,0.9715,2
+martial arts,8676,0.9985,2
+martial arts,8795,0.8527,1
+martial arts,8832,0.983,2
+martial arts,8861,0.8068,1
+martial arts,8983,0.9982,2
+martial arts,26270,0.921,2
+martial arts,26399,0.9998,2
+martial arts,26413,0.9995,2
+martial arts,26547,0.9945,2
+martial arts,26606,0.9958,2
+martial arts,26696,0.8415,1
+martial arts,26736,0.9905,2
+martial arts,26765,0.999,2
+martial arts,26792,0.9995,2
+martial arts,26842,0.9998,2
+martial arts,26865,1.0,2
+martial arts,27032,0.9975,2
+martial arts,27426,0.9928,2
+martial arts,27711,0.9832,2
+martial arts,27801,0.9995,2
+martial arts,27865,0.8345,1
+martial arts,31221,0.961,2
+martial arts,31553,0.894,1
+martial arts,31664,0.843,1
+martial arts,31878,0.9995,2
+martial arts,31892,0.999,2
+martial arts,32511,0.9988,2
+martial arts,33437,0.9985,2
+martial arts,33801,0.9175,2
+martial arts,36519,0.9608,2
+martial arts,36850,0.9975,2
+martial arts,37335,0.9975,2
+martial arts,38046,0.999,2
+martial arts,41575,0.9798,2
+martial arts,42718,0.9765,2
+martial arts,42946,0.998,2
+martial arts,44115,0.9805,2
+martial arts,45183,0.9992,2
+martial arts,46322,1.0,2
+martial arts,50003,0.9978,2
+martial arts,50005,0.9898,2
+martial arts,50944,0.9995,2
+martial arts,51277,0.9998,2
+martial arts,51939,0.8355,1
+martial arts,53022,0.9178,2
+martial arts,54648,0.9792,2
+martial arts,54775,0.849,1
+martial arts,58627,0.9945,2
+martial arts,59103,0.9998,2
+martial arts,59336,0.9975,2
+martial arts,59784,0.9975,2
+martial arts,61026,0.9412,2
+martial arts,61493,0.9995,2
+martial arts,62801,0.9162,2
+martial arts,65514,0.9998,2
+martial arts,65552,0.9328,2
+martial arts,66130,0.9995,2
+martial arts,66639,0.985,2
+martial arts,67252,0.9998,2
+martial arts,67534,0.9915,2
+martial arts,67867,0.9558,2
+martial arts,69381,0.9772,2
+martial arts,71910,0.966,2
+martial arts,72171,0.9178,2
+martial arts,72369,0.982,2
+martial arts,72489,0.9918,2
+martial arts,73569,0.924,2
+martial arts,73741,0.9955,2
+martial arts,74580,0.95,2
+martial arts,74668,0.948,2
+martial arts,77893,0.9988,2
+martial arts,78128,1.0,2
+martial arts,78893,0.8142,1
+martial arts,79224,0.996,2
+martial arts,79553,0.9998,2
+martial arts,79695,0.8815,1
+martial arts,80026,0.9872,2
+martial arts,81520,0.8973,1
+martial arts,82765,0.991,2
+martial arts,83349,0.915,2
+martial arts,83478,0.9995,2
+martial arts,87222,0.998,2
+martial arts,88495,0.9998,2
+martial arts,89774,0.9718,2
+martial arts,91014,0.999,2
+martial arts,91273,0.9835,2
+martial arts,92008,0.8802,1
+martial arts,92393,0.9952,2
+martial arts,92817,0.9925,2
+martial arts,93838,0.9975,2
+martial arts,95165,0.8998,1
+martial arts,97950,0.999,2
+martial arts,100469,0.943,2
+martial arts,100882,0.9222,2
+martial arts,102088,0.9995,2
+martial arts,103665,0.999,2
+martial arts,106491,0.8205,1
+martial arts,107953,0.8585,1
+martial arts,110426,0.981,2
+martial arts,110501,0.9922,2
+martial arts,110826,0.8922,1
+martial arts,113348,0.8995,1
+martial arts,131270,1.0,2
+martial arts,131446,0.9768,2
+martial arts,134170,0.964,2
+martial arts,134775,0.998,2
+martial arts,135278,0.996,2
+martial arts,149406,0.9968,2
+martial arts,152059,0.9988,2
+martial arts,152591,0.9998,2
+martial arts,168348,0.9668,2
+martial arts,170891,0.9998,2
+pirates,15,0.9902,2
+pirates,1017,0.8725,1
+pirates,2005,0.8853,1
+pirates,2087,0.863,1
+pirates,3417,0.9375,2
+pirates,3489,0.875,1
+pirates,5192,0.8198,1
+pirates,5882,0.8255,1
+pirates,6116,0.9245,2
+pirates,6350,0.9088,2
+pirates,6405,0.9728,2
+pirates,6539,0.9955,2
+pirates,7164,0.8032,1
+pirates,7309,0.9875,2
+pirates,7770,0.932,2
+pirates,8167,0.9852,2
+pirates,25866,0.8507,1
+pirates,26479,0.9272,2
+pirates,26495,0.937,2
+pirates,26776,0.8302,1
+pirates,42946,0.9328,2
+pirates,45722,0.9925,2
+pirates,53125,0.9952,2
+pirates,58850,0.9875,2
+pirates,86880,0.996,2
+pirates,94833,0.9902,2
+pirates,95543,0.8792,1
+pirates,103554,0.911,2
+pirates,105504,0.9375,2
+pirates,122896,0.9922,2
+pirates,130450,0.866,1
+pirates,132632,0.8685,1
+post-apocalyptic,32,0.9005,2
+post-apocalyptic,172,0.8788,1
+post-apocalyptic,173,0.8598,1
+post-apocalyptic,208,0.9812,2
+post-apocalyptic,327,0.8382,1
+post-apocalyptic,1129,0.8178,1
+post-apocalyptic,1175,0.96,2
+post-apocalyptic,1240,0.8032,1
+post-apocalyptic,1274,0.8492,1
+post-apocalyptic,1726,0.9772,2
+post-apocalyptic,2256,0.973,2
+post-apocalyptic,2275,0.9372,2
+post-apocalyptic,2528,0.9342,2
+post-apocalyptic,2530,0.9072,2
+post-apocalyptic,2531,0.96,2
+post-apocalyptic,2571,0.8198,1
+post-apocalyptic,2613,0.9438,2
+post-apocalyptic,3032,0.977,2
+post-apocalyptic,3702,0.962,2
+post-apocalyptic,3703,0.9832,2
+post-apocalyptic,3704,0.9795,2
+post-apocalyptic,4092,0.9852,2
+post-apocalyptic,4446,0.8035,1
+post-apocalyptic,4580,0.9182,2
+post-apocalyptic,4691,0.995,2
+post-apocalyptic,4987,0.8378,1
+post-apocalyptic,5463,0.978,2
+post-apocalyptic,5903,0.9008,2
+post-apocalyptic,6365,0.8392,1
+post-apocalyptic,6502,0.9472,2
+post-apocalyptic,6583,0.9848,2
+post-apocalyptic,6934,0.8612,1
+post-apocalyptic,6969,0.9912,2
+post-apocalyptic,7099,0.93,2
+post-apocalyptic,7128,0.897,1
+post-apocalyptic,7236,0.9145,2
+post-apocalyptic,7724,0.984,2
+post-apocalyptic,7986,0.9585,2
+post-apocalyptic,8134,0.9522,2
+post-apocalyptic,8861,0.8598,1
+post-apocalyptic,26467,0.8645,1
+post-apocalyptic,26554,0.9178,2
+post-apocalyptic,26593,0.979,2
+post-apocalyptic,27905,0.9185,2
+post-apocalyptic,31184,0.9668,2
+post-apocalyptic,33294,0.9345,2
+post-apocalyptic,33834,0.9395,2
+post-apocalyptic,34292,0.9788,2
+post-apocalyptic,36363,0.9272,2
+post-apocalyptic,37386,0.8848,1
+post-apocalyptic,48774,0.8578,1
+post-apocalyptic,52443,0.8878,1
+post-apocalyptic,53000,0.922,2
+post-apocalyptic,55232,0.981,2
+post-apocalyptic,56174,0.9675,2
+post-apocalyptic,58297,0.982,2
+post-apocalyptic,60069,0.839,1
+post-apocalyptic,61210,0.9608,2
+post-apocalyptic,61350,0.9562,2
+post-apocalyptic,62376,0.914,2
+post-apocalyptic,63072,0.9702,2
+post-apocalyptic,68791,0.9595,2
+post-apocalyptic,71057,0.973,2
+post-apocalyptic,71135,0.874,1
+post-apocalyptic,71535,0.882,1
+post-apocalyptic,73168,0.983,2
+post-apocalyptic,73268,0.8218,1
+post-apocalyptic,73276,0.8022,1
+post-apocalyptic,73321,0.9872,2
+post-apocalyptic,74731,0.9315,2
+post-apocalyptic,76860,0.8578,1
+post-apocalyptic,80363,0.936,2
+post-apocalyptic,86835,0.9848,2
+post-apocalyptic,89072,0.973,2
+post-apocalyptic,90268,0.9958,2
+post-apocalyptic,91273,0.9065,2
+post-apocalyptic,91972,0.9705,2
+post-apocalyptic,95875,0.8558,1
+post-apocalyptic,96415,0.9145,2
+post-apocalyptic,96737,0.9222,2
+post-apocalyptic,97752,0.916,2
+post-apocalyptic,97946,0.9955,2
+post-apocalyptic,98019,0.8605,1
+post-apocalyptic,99007,0.9092,2
+post-apocalyptic,101864,0.9528,2
+post-apocalyptic,103253,0.806,1
+post-apocalyptic,103727,0.989,2
+post-apocalyptic,103816,0.893,1
+post-apocalyptic,103972,0.9262,2
+post-apocalyptic,107406,0.949,2
+post-apocalyptic,107653,0.8352,1
+post-apocalyptic,108190,0.8378,1
+post-apocalyptic,112623,0.932,2
+post-apocalyptic,113188,0.908,2
+post-apocalyptic,114180,0.9212,2
+post-apocalyptic,114847,0.9682,2
+post-apocalyptic,115235,0.9645,2
+post-apocalyptic,115881,0.913,2
+post-apocalyptic,117895,0.9545,2
+post-apocalyptic,122882,0.971,2
+post-apocalyptic,127218,0.9638,2
+post-apocalyptic,135141,0.8442,1
+post-apocalyptic,140131,0.9292,2
+post-apocalyptic,140820,0.9908,2
+post-apocalyptic,141544,0.9548,2
+post-apocalyptic,142424,0.9505,2
+post-apocalyptic,142999,0.9185,2
+post-apocalyptic,151695,0.9858,2
+post-apocalyptic,152055,0.9618,2
+post-apocalyptic,160674,0.8478,1
+post-apocalyptic,163985,0.9465,2
+post-apocalyptic,164367,0.9548,2
+post-apocalyptic,168498,0.9432,2
+post-apocalyptic,172877,0.822,1
+post-apocalyptic,173007,0.9132,2
+post-apocalyptic,173139,0.8105,1
+post-apocalyptic,180093,0.8022,1
+prison,280,0.9355,2
+prison,318,0.9722,2
+prison,475,0.8575,1
+prison,504,0.908,2
+prison,712,0.8245,1
+prison,874,0.9675,2
+prison,1129,0.8742,1
+prison,1262,0.905,2
+prison,1273,0.9045,2
+prison,1276,0.9722,2
+prison,1552,0.8372,1
+prison,2305,0.9195,2
+prison,2329,0.9018,2
+prison,2587,0.8815,1
+prison,2771,0.8942,1
+prison,2881,0.8672,1
+prison,3147,0.93,2
+prison,3178,0.8718,1
+prison,3196,0.8968,1
+prison,3198,0.964,2
+prison,3200,0.8268,1
+prison,3218,0.8182,1
+prison,3498,0.9752,2
+prison,3761,0.938,2
+prison,4180,0.898,1
+prison,4199,0.9622,2
+prison,4220,0.9488,2
+prison,4251,0.8858,1
+prison,4261,0.8115,1
+prison,4339,0.8918,1
+prison,4608,0.9308,2
+prison,4620,0.9842,2
+prison,4646,0.9758,2
+prison,4673,0.81,1
+prison,4830,0.9902,2
+prison,4866,0.9792,2
+prison,5084,0.8492,1
+prison,5134,0.8965,1
+prison,5155,0.9552,2
+prison,5250,0.8695,1
+prison,5285,0.953,2
+prison,5302,0.9725,2
+prison,5531,0.901,2
+prison,5608,0.97,2
+prison,5954,0.8358,1
+prison,6022,0.9202,2
+prison,6151,0.9075,2
+prison,6786,0.9622,2
+prison,7062,0.959,2
+prison,7202,0.8935,1
+prison,7459,0.989,2
+prison,7922,0.8228,1
+prison,8044,0.8752,1
+prison,8340,0.987,2
+prison,8491,0.8565,1
+prison,8495,0.973,2
+prison,8684,0.9662,2
+prison,26138,0.9392,2
+prison,26462,0.9575,2
+prison,26736,0.8925,1
+prison,26819,0.9558,2
+prison,26965,0.8182,1
+prison,31545,0.985,2
+prison,33646,0.8482,1
+prison,41585,0.8218,1
+prison,42632,0.862,1
+prison,48575,0.9785,2
+prison,49276,0.9442,2
+prison,52495,0.8865,1
+prison,53550,0.812,1
+prison,53592,0.9228,2
+prison,55652,0.9012,2
+prison,56370,0.9588,2
+prison,56744,0.906,2
+prison,60341,0.937,2
+prison,60551,0.885,1
+prison,60753,0.986,2
+prison,61248,0.8565,1
+prison,61646,0.9035,2
+prison,64197,0.974,2
+prison,66156,0.9768,2
+prison,67534,0.9645,2
+prison,69654,0.8555,1
+prison,70670,0.8412,1
+prison,70728,0.9488,2
+prison,73344,0.984,2
+prison,74275,0.8288,1
+prison,74727,0.9282,2
+prison,79860,0.947,2
+prison,80880,0.8175,1
+prison,81520,0.9422,2
+prison,83796,0.8495,1
+prison,84407,0.936,2
+prison,93563,0.8758,1
+prison,94985,0.9565,2
+prison,105653,0.9532,2
+prison,110110,0.985,2
+prison,120783,0.897,1
+prison,127212,0.9662,2
+prison,131013,0.9255,2
+prison,133824,0.8438,1
+prison,152290,0.8698,1
+prison,164917,0.9502,2
+prison,169906,0.8447,1
+prison,175585,0.9748,2
+prison,179221,0.914,2
+road trip,231,0.9398,2
+road trip,239,0.8445,1
+road trip,325,0.8115,1
+road trip,333,0.9692,2
+road trip,345,0.9508,2
+road trip,481,0.9162,2
+road trip,1405,0.8832,1
+road trip,1409,0.8162,1
+road trip,1837,0.9542,2
+road trip,1961,0.9472,2
+road trip,2073,0.895,1
+road trip,2357,0.9095,2
+road trip,2772,0.856,1
+road trip,2795,0.965,2
+road trip,2966,0.933,2
+road trip,2988,0.8908,1
+road trip,3168,0.9395,2
+road trip,3200,0.9292,2
+road trip,3201,0.845,1
+road trip,3418,0.9,1
+road trip,3495,0.8732,1
+road trip,3608,0.848,1
+road trip,3617,0.9972,2
+road trip,3741,0.8905,1
+road trip,4002,0.9618,2
+road trip,4015,0.8108,1
+road trip,4410,0.9212,2
+road trip,4418,0.844,1
+road trip,4728,0.85,1
+road trip,4729,0.9618,2
+road trip,5018,0.811,1
+road trip,5106,0.8565,1
+road trip,5147,0.9275,2
+road trip,5225,0.9838,2
+road trip,5945,0.9248,2
+road trip,6084,0.8182,1
+road trip,6188,0.8982,1
+road trip,6342,0.9088,2
+road trip,6636,0.9672,2
+road trip,6782,0.8635,1
+road trip,6902,0.9708,2
+road trip,7317,0.9875,2
+road trip,7749,0.8085,1
+road trip,7884,0.982,2
+road trip,8012,0.9492,2
+road trip,8807,0.9798,2
+road trip,8814,0.8962,1
+road trip,8838,0.95,2
+road trip,8873,0.9858,2
+road trip,8949,0.9808,2
+road trip,26090,0.9105,2
+road trip,26178,0.8712,1
+road trip,26302,0.9615,2
+road trip,26324,0.8088,1
+road trip,26512,0.876,1
+road trip,27216,0.8582,1
+road trip,27664,0.8065,1
+road trip,27834,0.8685,1
+road trip,27874,0.9965,2
+road trip,31422,0.8375,1
+road trip,34437,0.929,2
+road trip,36535,0.8165,1
+road trip,42004,0.9668,2
+road trip,43396,0.8445,1
+road trip,43652,0.9252,2
+road trip,45208,0.877,1
+road trip,46578,0.9575,2
+road trip,47793,0.9835,2
+road trip,48385,0.868,1
+road trip,50259,0.9748,2
+road trip,51575,0.9838,2
+road trip,55247,0.8728,1
+road trip,55269,0.9132,2
+road trip,56671,0.987,2
+road trip,56715,0.8858,1
+road trip,58291,0.901,2
+road trip,59022,0.9395,2
+road trip,60322,0.928,2
+road trip,63479,0.9925,2
+road trip,66665,0.96,2
+road trip,67839,0.9858,2
+road trip,68659,0.9635,2
+road trip,69122,0.8442,1
+road trip,70641,0.976,2
+road trip,71535,0.84,1
+road trip,73413,0.9545,2
+road trip,74864,0.9495,2
+road trip,79230,0.8538,1
+road trip,80361,0.908,2
+road trip,81537,0.9835,2
+road trip,82926,0.9718,2
+road trip,83976,0.967,2
+road trip,84772,0.947,2
+road trip,87081,0.8982,1
+road trip,87194,0.8768,1
+road trip,89554,0.949,2
+road trip,90528,0.9542,2
+road trip,95309,0.928,2
+road trip,95488,0.9635,2
+road trip,99106,0.9872,2
+road trip,100159,0.8778,1
+road trip,100390,0.9592,2
+road trip,102956,0.825,1
+road trip,105197,0.9755,2
+road trip,106062,0.898,1
+road trip,111443,0.9148,2
+road trip,112497,0.9792,2
+road trip,113064,0.9298,2
+road trip,113188,0.954,2
+road trip,116975,0.9182,2
+road trip,127128,0.9882,2
+road trip,128512,0.9705,2
+road trip,131920,0.9668,2
+road trip,132549,0.9598,2
+road trip,136598,0.9458,2
+road trip,137595,0.9365,2
+road trip,151739,0.9275,2
+road trip,159717,0.9842,2
+road trip,162738,0.9502,2
+road trip,171233,0.8098,1
+road trip,188317,0.8175,1
+robots,76,0.9752,2
+robots,260,0.9582,2
+robots,519,0.9115,2
+robots,541,0.8265,1
+robots,589,0.9505,2
+robots,1196,0.9112,2
+robots,1210,0.8595,1
+robots,1240,0.9632,2
+robots,1301,0.9272,2
+robots,1649,0.978,2
+robots,2034,0.992,2
+robots,2448,0.9135,2
+robots,2527,0.9955,2
+robots,2614,0.975,2
+robots,2628,0.9098,2
+robots,2985,0.9222,2
+robots,2986,0.814,1
+robots,3156,0.992,2
+robots,3937,0.996,2
+robots,3981,0.861,1
+robots,4006,0.8782,1
+robots,4092,0.976,2
+robots,4370,0.9888,2
+robots,4402,0.8048,1
+robots,4544,0.9715,2
+robots,4545,0.9915,2
+robots,4980,0.8045,1
+robots,5072,0.9182,2
+robots,5378,0.9302,2
+robots,5410,0.9772,2
+robots,5523,0.9555,2
+robots,5756,0.999,2
+robots,6537,0.978,2
+robots,6645,0.925,2
+robots,6934,0.8878,1
+robots,7314,0.9988,2
+robots,7986,0.997,2
+robots,8426,0.9782,2
+robots,8644,0.9978,2
+robots,8677,0.8418,1
+robots,8865,0.9648,2
+robots,9004,0.92,2
+robots,26365,0.8195,1
+robots,26513,0.976,2
+robots,27728,0.9185,2
+robots,31184,0.8768,1
+robots,32031,0.9975,2
+robots,33493,0.9255,2
+robots,34292,0.9145,2
+robots,53996,0.9918,2
+robots,59315,0.8402,1
+robots,60069,0.9692,2
+robots,66789,0.949,2
+robots,68791,0.9812,2
+robots,69526,0.9962,2
+robots,71057,0.9042,2
+robots,71530,0.9935,2
+robots,72209,0.9848,2
+robots,87520,0.9955,2
+robots,89945,0.9955,2
+robots,89983,0.932,2
+robots,90249,0.997,2
+robots,94810,0.9745,2
+robots,95165,0.8198,1
+robots,95875,0.9672,2
+robots,96655,0.9898,2
+robots,98019,0.9858,2
+robots,103228,0.9865,2
+robots,103253,0.966,2
+robots,108945,0.9902,2
+robots,110407,0.932,2
+robots,111362,0.8412,1
+robots,112370,0.9882,2
+robots,114793,0.8985,1
+robots,114847,0.9972,2
+robots,115617,0.9075,2
+robots,115713,0.9422,2
+robots,120466,0.9935,2
+robots,120799,0.965,2
+robots,122886,0.8052,1
+robots,122892,0.9228,2
+robots,127323,0.8995,1
+robots,128736,0.9205,2
+robots,129820,0.8005,1
+robots,132046,0.9805,2
+robots,148855,0.8712,1
+robots,158956,0.9985,2
+robots,166528,0.825,1
+robots,173007,0.9765,2
+robots,174585,0.9845,2
+robots,180093,0.9628,2
+serial killer,22,0.9972,2
+serial killer,47,0.9938,2
+serial killer,240,0.9238,2
+serial killer,257,0.8535,1
+serial killer,285,0.8765,1
+serial killer,288,0.9548,2
+serial killer,422,0.9038,2
+serial killer,481,0.9925,2
+serial killer,490,0.9315,2
+serial killer,532,0.9158,2
+serial killer,544,0.9292,2
+serial killer,593,0.9915,2
+serial killer,606,0.8352,1
+serial killer,695,0.9732,2
+serial killer,841,0.9182,2
+serial killer,874,0.9692,2
+serial killer,891,0.921,2
+serial killer,904,0.805,1
+serial killer,1000,0.9515,2
+serial killer,1034,0.8415,1
+serial killer,1089,0.826,1
+serial killer,1130,0.9562,2
+serial killer,1219,0.9128,2
+serial killer,1260,0.9835,2
+serial killer,1336,0.9675,2
+serial killer,1342,0.8953,1
+serial killer,1343,0.8025,1
+serial killer,1347,0.9548,2
+serial killer,1355,0.8875,1
+serial killer,1407,0.9055,2
+serial killer,1427,0.832,1
+serial killer,1620,0.9832,2
+serial killer,1644,0.8595,1
+serial killer,1661,0.9905,2
+serial killer,1717,0.9462,2
+serial killer,1754,0.8447,1
+serial killer,1891,0.9898,2
+serial killer,1969,0.932,2
+serial killer,1970,0.947,2
+serial killer,1971,0.951,2
+serial killer,1972,0.9325,2
+serial killer,1974,0.964,2
+serial killer,1975,0.972,2
+serial killer,1976,0.9595,2
+serial killer,1977,0.968,2
+serial killer,1978,0.9748,2
+serial killer,1979,0.9672,2
+serial killer,1980,0.9755,2
+serial killer,1981,0.955,2
+serial killer,1982,0.9488,2
+serial killer,1983,0.9692,2
+serial killer,1984,0.813,1
+serial killer,1985,0.9735,2
+serial killer,1986,0.9722,2
+serial killer,1987,0.8705,1
+serial killer,1991,0.9135,2
+serial killer,1993,0.8788,1
+serial killer,1999,0.961,2
+serial killer,2107,0.8832,1
+serial killer,2118,0.8552,1
+serial killer,2158,0.9922,2
+serial killer,2159,0.9955,2
+serial killer,2178,0.9675,2
+serial killer,2203,0.945,2
+serial killer,2227,0.934,2
+serial killer,2279,0.8185,1
+serial killer,2280,0.9735,2
+serial killer,2315,0.8,1
+serial killer,2446,0.9792,2
+serial killer,2459,0.9585,2
+serial killer,2461,0.921,2
+serial killer,2462,0.8412,1
+serial killer,2488,0.9812,2
+serial killer,2505,0.8958,1
+serial killer,2702,0.931,2
+serial killer,2778,0.9588,2
+serial killer,2814,0.9735,2
+serial killer,2844,0.947,2
+serial killer,2853,0.8935,1
+serial killer,2855,0.9538,2
+serial killer,2878,0.9228,2
+serial killer,3005,0.9912,2
+serial killer,3055,0.9552,2
+serial killer,3119,0.9298,2
+serial killer,3121,0.8885,1
+serial killer,3238,0.8288,1
+serial killer,3266,0.9865,2
+serial killer,3273,0.8442,1
+serial killer,3344,0.8235,1
+serial killer,3445,0.9835,2
+serial killer,3493,0.958,2
+serial killer,3535,0.9758,2
+serial killer,3557,0.991,2
+serial killer,3843,0.9245,2
+serial killer,3849,0.919,2
+serial killer,3863,0.947,2
+serial killer,3895,0.9945,2
+serial killer,3906,0.824,1
+serial killer,3908,0.9215,2
+serial killer,3938,0.9725,2
+serial killer,3941,0.8858,1
+serial killer,3942,0.896,1
+serial killer,4056,0.9578,2
+serial killer,4083,0.8567,1
+serial killer,4093,0.9808,2
+serial killer,4143,0.919,2
+serial killer,4148,0.9595,2
+serial killer,4195,0.8535,1
+serial killer,4210,0.973,2
+serial killer,4243,0.9525,2
+serial killer,4336,0.893,1
+serial killer,4362,0.9815,2
+serial killer,4383,0.9428,2
+serial killer,4430,0.8627,1
+serial killer,4468,0.954,2
+serial killer,4491,0.9592,2
+serial killer,4498,0.8913,1
+serial killer,4528,0.9768,2
+serial killer,4546,0.804,1
+serial killer,4610,0.9605,2
+serial killer,4645,0.9772,2
+serial killer,4650,0.9962,2
+serial killer,4661,0.978,2
+serial killer,4665,0.965,2
+serial killer,4669,0.9555,2
+serial killer,4670,0.9495,2
+serial killer,4689,0.9595,2
+serial killer,4752,0.9925,2
+serial killer,4837,0.9815,2
+serial killer,4855,0.97,2
+serial killer,4865,0.9732,2
+serial killer,4893,0.9318,2
+serial killer,4932,0.9235,2
+serial killer,4940,0.8942,1
+serial killer,5163,0.8428,1
+serial killer,5183,0.9925,2
+serial killer,5277,0.8567,1
+serial killer,5294,0.9778,2
+serial killer,5306,0.977,2
+serial killer,5432,0.986,2
+serial killer,5476,0.9425,2
+serial killer,5506,0.8492,1
+serial killer,5544,0.819,1
+serial killer,5570,0.916,2
+serial killer,5593,0.9808,2
+serial killer,5630,0.985,2
+serial killer,5691,0.9622,2
+serial killer,5736,0.8518,1
+serial killer,5755,0.804,1
+serial killer,5771,0.9368,2
+serial killer,5778,0.9688,2
+serial killer,5844,0.8928,1
+serial killer,5850,0.9945,2
+serial killer,6044,0.9245,2
+serial killer,6066,0.889,1
+serial killer,6132,0.9122,2
+serial killer,6140,0.9212,2
+serial killer,6168,0.886,1
+serial killer,6281,0.8195,1
+serial killer,6323,0.951,2
+serial killer,6610,0.926,2
+serial killer,6650,0.8862,1
+serial killer,6736,0.8015,1
+serial killer,6759,0.9635,2
+serial killer,6809,0.9838,2
+serial killer,6880,0.9112,2
+serial killer,6885,0.924,2
+serial killer,6975,0.9248,2
+serial killer,7006,0.9132,2
+serial killer,7013,0.9452,2
+serial killer,7114,0.9195,2
+serial killer,7115,0.916,2
+serial killer,7160,0.9372,2
+serial killer,7171,0.9518,2
+serial killer,7321,0.8948,1
+serial killer,7362,0.9935,2
+serial killer,7477,0.9838,2
+serial killer,7784,0.9858,2
+serial killer,8017,0.9732,2
+serial killer,8035,0.9675,2
+serial killer,8062,0.9945,2
+serial killer,8236,0.9628,2
+serial killer,8369,0.9738,2
+serial killer,8501,0.8955,1
+serial killer,8608,0.8958,1
+serial killer,8831,0.9938,2
+serial killer,8846,0.934,2
+serial killer,8882,0.996,2
+serial killer,8957,0.9828,2
+serial killer,26488,0.8082,1
+serial killer,26523,0.938,2
+serial killer,27005,0.8612,1
+serial killer,27096,0.8175,1
+serial killer,27170,0.917,2
+serial killer,27473,0.8995,1
+serial killer,27773,0.845,1
+serial killer,31032,0.9732,2
+serial killer,31364,0.9932,2
+serial killer,32170,0.9765,2
+serial killer,32385,0.8578,1
+serial killer,34323,0.9585,2
+serial killer,36533,0.895,1
+serial killer,39446,0.978,2
+serial killer,40723,0.9092,2
+serial killer,41014,0.9642,2
+serial killer,42710,0.9938,2
+serial killer,44590,0.9668,2
+serial killer,45852,0.875,1
+serial killer,48518,0.965,2
+serial killer,48543,0.9892,2
+serial killer,48877,0.9702,2
+serial killer,48997,0.955,2
+serial killer,50447,0.8935,1
+serial killer,50804,0.9638,2
+serial killer,50858,0.9058,2
+serial killer,51357,0.997,2
+serial killer,51540,0.9888,2
+serial killer,52458,0.9618,2
+serial killer,52831,0.8128,1
+serial killer,53129,0.99,2
+serial killer,53207,0.975,2
+serial killer,54785,0.9485,2
+serial killer,54910,0.9285,2
+serial killer,55577,0.9782,2
+serial killer,55820,0.91,2
+serial killer,56744,0.819,1
+serial killer,57526,0.9852,2
+serial killer,58301,0.8268,1
+serial killer,59306,0.8655,1
+serial killer,59362,0.9712,2
+serial killer,59709,0.8228,1
+serial killer,60941,0.9415,2
+serial killer,61215,0.9115,2
+serial killer,61697,0.8582,1
+serial killer,63062,0.8775,1
+serial killer,63436,0.9705,2
+serial killer,64037,0.9705,2
+serial killer,65731,0.9832,2
+serial killer,66783,0.922,2
+serial killer,68159,0.8025,1
+serial killer,70206,0.949,2
+serial killer,70208,0.9375,2
+serial killer,70994,0.9278,2
+serial killer,71500,0.9225,2
+serial killer,71878,0.8735,1
+serial killer,72129,0.972,2
+serial killer,72731,0.8675,1
+serial killer,73511,0.9888,2
+serial killer,73808,0.9955,2
+serial killer,75351,0.859,1
+serial killer,77328,0.947,2
+serial killer,77330,0.9715,2
+serial killer,77359,0.9475,2
+serial killer,78679,0.8605,1
+serial killer,81182,0.9582,2
+serial killer,81270,0.8878,1
+serial killer,81535,0.9752,2
+serial killer,82667,0.9932,2
+serial killer,84392,0.8795,1
+serial killer,86295,0.8978,1
+serial killer,91626,0.9525,2
+serial killer,91658,0.8062,1
+serial killer,93598,0.9888,2
+serial killer,93982,0.974,2
+serial killer,97188,0.928,2
+serial killer,97306,0.849,1
+serial killer,97742,0.8142,1
+serial killer,99047,0.993,2
+serial killer,99470,0.9785,2
+serial killer,99721,0.9225,2
+serial killer,100159,0.9668,2
+serial killer,101360,0.9372,2
+serial killer,103219,0.9168,2
+serial killer,103299,0.8968,1
+serial killer,104441,0.9935,2
+serial killer,104908,0.8085,1
+serial killer,105053,0.944,2
+serial killer,107436,0.8718,1
+serial killer,108200,0.9212,2
+serial killer,108760,0.9835,2
+serial killer,109390,0.9475,2
+serial killer,112655,0.865,1
+serial killer,114182,0.9492,2
+serial killer,114246,0.9455,2
+serial killer,115629,0.9498,2
+serial killer,116191,0.9628,2
+serial killer,116989,0.8888,1
+serial killer,117549,0.9015,2
+serial killer,118082,0.9655,2
+serial killer,121253,0.9455,2
+serial killer,130956,0.8195,1
+serial killer,131433,0.9775,2
+serial killer,131724,0.806,1
+serial killer,136602,0.905,2
+serial killer,136798,0.8805,1
+serial killer,142503,0.8525,1
+serial killer,146688,0.9868,2
+serial killer,148671,0.9122,2
+serial killer,150254,0.8968,1
+serial killer,156726,0.9295,2
+serial killer,162418,0.947,2
+serial killer,162882,0.9908,2
+serial killer,166530,0.852,1
+serial killer,171925,0.8252,1
+serial killer,173499,0.8522,1
+serial killer,174395,0.9395,2
+serial killer,176551,0.9638,2
+serial killer,179295,0.963,2
+serial killer,179749,0.945,2
+serial killer,185977,0.8782,1
+serial killer,194004,0.8168,1
+space travel,150,0.9945,2
+space travel,260,0.941,2
+space travel,316,0.9815,2
+space travel,674,0.9465,2
+space travel,924,0.9955,2
+space travel,1196,0.8562,1
+space travel,1200,0.8585,1
+space travel,1214,0.9838,2
+space travel,1231,0.9965,2
+space travel,1253,0.9475,2
+space travel,1301,0.972,2
+space travel,1356,0.912,2
+space travel,1371,0.927,2
+space travel,1373,0.802,1
+space travel,1584,0.9902,2
+space travel,1590,0.9815,2
+space travel,1653,0.992,2
+space travel,1676,0.825,1
+space travel,1831,0.9318,2
+space travel,1876,0.827,1
+space travel,1917,0.9585,2
+space travel,2021,0.9638,2
+space travel,2034,0.969,2
+space travel,2311,0.9965,2
+space travel,2529,0.97,2
+space travel,2549,0.8815,1
+space travel,2656,0.8085,1
+space travel,2662,0.8825,1
+space travel,2792,0.8045,1
+space travel,2916,0.9652,2
+space travel,3033,0.871,1
+space travel,3190,0.921,2
+space travel,3300,0.9095,2
+space travel,3338,0.9785,2
+space travel,3354,0.9942,2
+space travel,3375,0.9995,2
+space travel,3638,0.9095,2
+space travel,3687,0.836,1
+space travel,3745,0.8975,1
+space travel,3780,0.9995,2
+space travel,3827,0.9662,2
+space travel,3981,0.9892,2
+space travel,4275,0.862,1
+space travel,4443,0.9748,2
+space travel,4643,0.842,1
+space travel,4777,0.9495,2
+space travel,4812,0.9288,2
+space travel,4813,0.996,2
+space travel,4861,0.8507,1
+space travel,4942,0.9908,2
+space travel,4987,0.9888,2
+space travel,5045,0.9875,2
+space travel,5046,0.857,1
+space travel,5290,0.9938,2
+space travel,5410,0.9165,2
+space travel,5468,0.947,2
+space travel,5502,0.886,1
+space travel,5544,0.8535,1
+space travel,5746,0.8235,1
+space travel,5881,0.905,2
+space travel,5944,0.8022,1
+space travel,5972,0.9425,2
+space travel,6303,0.9208,2
+space travel,6825,0.9958,2
+space travel,7118,0.9708,2
+space travel,7128,0.9768,2
+space travel,7239,0.997,2
+space travel,7743,0.9952,2
+space travel,8447,0.9735,2
+space travel,8633,0.9575,2
+space travel,26203,0.894,1
+space travel,26285,0.9948,2
+space travel,26398,0.9875,2
+space travel,31429,0.98,2
+space travel,32898,0.994,2
+space travel,34405,0.8768,1
+space travel,40851,0.8068,1
+space travel,44671,0.9948,2
+space travel,50923,0.9578,2
+space travel,52328,0.9912,2
+space travel,55176,0.9878,2
+space travel,60069,0.8792,1
+space travel,61267,0.884,1
+space travel,63458,0.8238,1
+space travel,65982,0.9342,2
+space travel,66789,0.9368,2
+space travel,68237,0.9615,2
+space travel,68358,0.9425,2
+space travel,71135,0.9938,2
+space travel,72998,0.8688,1
+space travel,77795,0.9978,2
+space travel,79357,0.8,1
+space travel,83613,0.8282,1
+space travel,89039,0.8595,1
+space travel,92192,0.9468,2
+space travel,93363,0.8862,1
+space travel,93610,0.994,2
+space travel,94864,0.965,2
+space travel,101864,0.8607,1
+space travel,102445,0.9242,2
+space travel,103253,0.8865,1
+space travel,103306,0.996,2
+space travel,104841,0.9948,2
+space travel,106030,0.9718,2
+space travel,109487,0.9975,2
+space travel,113345,0.8485,1
+space travel,114935,0.8,1
+space travel,118244,0.998,2
+space travel,119139,0.977,2
+space travel,133377,0.9825,2
+space travel,134130,0.9962,2
+space travel,135569,0.8795,1
+space travel,146926,0.9438,2
+space travel,149650,0.8098,1
+space travel,151605,0.8732,1
+space travel,154051,0.9978,2
+space travel,159972,0.987,2
+space travel,166526,0.8285,1
+space travel,166635,0.9962,2
+space travel,166643,0.973,2
+space travel,169864,0.912,2
+space travel,169984,0.9578,2
+space travel,173291,0.9338,2
+spies,10,0.869,1
+spies,380,0.9355,2
+spies,648,0.987,2
+spies,743,0.8982,1
+spies,801,0.9255,2
+spies,929,0.8128,1
+spies,930,0.83,1
+spies,965,0.8728,1
+spies,1479,0.9265,2
+spies,1517,0.959,2
+spies,1610,0.8425,1
+spies,1631,0.9362,2
+spies,1689,0.9138,2
+spies,1722,0.864,1
+spies,2179,0.9378,2
+spies,2180,0.947,2
+spies,2211,0.9705,2
+spies,2376,0.8132,1
+spies,2468,0.964,2
+spies,2683,0.941,2
+spies,2819,0.984,2
+spies,2947,0.8505,1
+spies,2948,0.9758,2
+spies,2949,0.9255,2
+spies,2983,0.9975,2
+spies,2989,0.9212,2
+spies,2990,0.8065,1
+spies,2991,0.8627,1
+spies,2993,0.8742,1
+spies,3082,0.8322,1
+spies,3137,0.833,1
+spies,3144,0.9772,2
+spies,3169,0.9215,2
+spies,3256,0.8808,1
+spies,3585,0.895,1
+spies,3635,0.9788,2
+spies,3638,0.8478,1
+spies,3985,0.9088,2
+spies,4005,0.9722,2
+spies,4110,0.9898,2
+spies,4125,0.9045,2
+spies,4232,0.816,1
+spies,4234,0.9805,2
+spies,4521,0.9948,2
+spies,4901,0.9982,2
+spies,4930,0.998,2
+spies,5011,0.8815,1
+spies,5033,0.9865,2
+spies,5187,0.993,2
+spies,5211,0.8868,1
+spies,5240,0.9368,2
+spies,5316,0.9102,2
+spies,5418,0.993,2
+spies,5493,0.9155,2
+spies,5495,0.8618,1
+spies,5497,0.9848,2
+spies,5507,0.8195,1
+spies,5732,0.9665,2
+spies,5796,0.9262,2
+spies,5803,0.9568,2
+spies,5872,0.875,1
+spies,5964,0.991,2
+spies,5978,0.877,1
+spies,6059,0.975,2
+spies,6076,0.9875,2
+spies,6078,0.9325,2
+spies,6314,0.8507,1
+spies,6437,0.991,2
+spies,6550,0.932,2
+spies,6624,0.9228,2
+spies,6718,0.9475,2
+spies,6808,0.9312,2
+spies,7230,0.975,2
+spies,7335,0.8035,1
+spies,7410,0.809,1
+spies,7569,0.8385,1
+spies,7570,0.8085,1
+spies,7827,0.9305,2
+spies,8330,0.9912,2
+spies,8665,0.9875,2
+spies,8772,0.997,2
+spies,8884,0.9772,2
+spies,25904,0.942,2
+spies,26268,0.937,2
+spies,26504,0.8802,1
+spies,26555,0.9952,2
+spies,26791,0.889,1
+spies,31255,0.945,2
+spies,32300,0.8515,1
+spies,33036,0.9472,2
+spies,33679,0.9158,2
+spies,34065,0.995,2
+spies,45186,0.9125,2
+spies,48522,0.8888,1
+spies,48909,0.976,2
+spies,49007,0.9782,2
+spies,49272,0.9378,2
+spies,49422,0.9498,2
+spies,49766,0.906,2
+spies,49822,0.9218,2
+spies,51080,0.981,2
+spies,53143,0.8,1
+spies,54286,0.9858,2
+spies,60126,0.8545,1
+spies,62374,0.9508,2
+spies,63113,0.9295,2
+spies,67193,0.9802,2
+spies,69027,0.9745,2
+spies,74580,0.818,1
+spies,79293,0.971,2
+spies,81229,0.8472,1
+spies,82059,0.974,2
+spies,87876,0.839,1
+spies,89002,0.935,2
+spies,89085,0.965,2
+spies,89302,0.9762,2
+spies,89753,0.9858,2
+spies,90738,0.995,2
+spies,91535,0.9702,2
+spies,92507,0.8202,1
+spies,96079,0.9325,2
+spies,103810,0.82,1
+spies,104274,0.8342,1
+spies,104736,0.9522,2
+spies,108188,0.911,2
+spies,111781,0.954,2
+spies,112940,0.9535,2
+spies,114439,0.9852,2
+spies,117533,0.8278,1
+spies,119145,0.963,2
+spies,133001,0.9792,2
+spies,133869,0.99,2
+spies,134246,0.9232,2
+spies,134368,0.9835,2
+spies,136020,0.8858,1
+spies,138036,0.9838,2
+spies,143385,0.9865,2
+spies,155968,0.9772,2
+spies,157276,0.9122,2
+spies,160438,0.967,2
+spies,164981,0.9765,2
+spies,165103,0.9815,2
+spies,171491,0.855,1
+spies,173941,0.9888,2
+submarine,135,0.9188,2
+submarine,161,0.9812,2
+submarine,1019,0.919,2
+submarine,1127,0.8735,1
+submarine,1233,0.9365,2
+submarine,1610,0.9772,2
+submarine,2663,0.932,2
+submarine,2670,0.989,2
+submarine,3555,0.9712,2
+submarine,3635,0.9052,2
+submarine,3926,0.969,2
+submarine,3927,0.9132,2
+submarine,4802,0.9495,2
+submarine,5479,0.9822,2
+submarine,5663,0.954,2
+submarine,5801,0.8655,1
+submarine,5830,0.8678,1
+submarine,6498,0.8728,1
+submarine,6854,0.9708,2
+submarine,8649,0.9578,2
+submarine,8675,0.9688,2
+submarine,8700,0.9325,2
+submarine,31255,0.9795,2
+submarine,69453,0.9662,2
+submarine,101097,0.9825,2
+submarine,118706,0.989,2
+superhero,153,0.9568,2
+superhero,173,0.8995,1
+superhero,367,0.9365,2
+superhero,533,0.9958,2
+superhero,592,0.9852,2
+superhero,761,0.9962,2
+superhero,1377,0.9675,2
+superhero,1562,0.958,2
+superhero,1591,0.993,2
+superhero,1599,0.9915,2
+superhero,1750,0.862,1
+superhero,2041,0.955,2
+superhero,2094,0.9448,2
+superhero,2167,0.9705,2
+superhero,2325,0.844,1
+superhero,2616,0.8898,1
+superhero,2640,0.9982,2
+superhero,2641,0.991,2
+superhero,2642,0.9855,2
+superhero,2643,0.9458,2
+superhero,2668,0.964,2
+superhero,2723,0.9978,2
+superhero,3213,0.9685,2
+superhero,3438,0.9302,2
+superhero,3439,0.839,1
+superhero,3693,0.8452,1
+superhero,3793,0.9978,2
+superhero,3877,0.991,2
+superhero,3905,0.9962,2
+superhero,3994,0.9802,2
+superhero,4636,0.9515,2
+superhero,4652,0.912,2
+superhero,5053,0.995,2
+superhero,5185,0.9898,2
+superhero,5217,0.8635,1
+superhero,5254,0.9105,2
+superhero,5349,0.9988,2
+superhero,5700,0.9878,2
+superhero,6157,0.999,2
+superhero,6204,0.9912,2
+superhero,6333,0.9958,2
+superhero,6534,0.9958,2
+superhero,6541,0.9782,2
+superhero,6670,0.8933,1
+superhero,6966,0.993,2
+superhero,7373,0.9958,2
+superhero,7439,0.99,2
+superhero,8258,0.8042,1
+superhero,8636,0.9985,2
+superhero,8666,0.9892,2
+superhero,8961,0.9938,2
+superhero,8985,0.924,2
+superhero,26152,0.889,1
+superhero,26764,0.998,2
+superhero,27905,0.847,1
+superhero,31221,0.994,2
+superhero,33681,0.8935,1
+superhero,33794,0.9898,2
+superhero,34150,0.9988,2
+superhero,34332,0.9955,2
+superhero,43928,0.8145,1
+superhero,45499,0.99,2
+superhero,45732,0.9952,2
+superhero,46530,0.9958,2
+superhero,46770,0.996,2
+superhero,47384,0.995,2
+superhero,51077,0.9978,2
+superhero,51939,0.863,1
+superhero,52722,0.9952,2
+superhero,53464,0.9988,2
+superhero,54278,0.9522,2
+superhero,57640,0.9848,2
+superhero,58025,0.9695,2
+superhero,58559,0.9855,2
+superhero,58870,0.9982,2
+superhero,59014,0.966,2
+superhero,59315,0.9992,2
+superhero,60040,0.998,2
+superhero,60072,0.8527,1
+superhero,60074,0.9995,2
+superhero,60684,0.9962,2
+superhero,61401,0.9918,2
+superhero,63828,0.8392,1
+superhero,63859,0.823,1
+superhero,64231,0.8172,1
+superhero,64234,0.9525,2
+superhero,66171,0.9098,2
+superhero,66934,0.9515,2
+superhero,68319,0.994,2
+superhero,69251,0.9165,2
+superhero,69372,0.8438,1
+superhero,69746,0.9228,2
+superhero,71129,0.9918,2
+superhero,76210,0.9938,2
+superhero,76251,0.998,2
+superhero,76709,0.9868,2
+superhero,77561,0.998,2
+superhero,78467,0.9565,2
+superhero,81564,0.991,2
+superhero,83349,0.997,2
+superhero,85056,0.8082,1
+superhero,85298,0.9778,2
+superhero,85401,0.9928,2
+superhero,86332,0.9988,2
+superhero,87232,0.9958,2
+superhero,87430,0.9992,2
+superhero,88140,0.9992,2
+superhero,88237,0.9858,2
+superhero,88495,0.8612,1
+superhero,89745,0.9992,2
+superhero,91529,0.9828,2
+superhero,92420,0.9825,2
+superhero,92938,0.992,2
+superhero,94746,0.9582,2
+superhero,95510,0.9978,2
+superhero,102125,0.9978,2
+superhero,103042,0.9972,2
+superhero,103772,0.997,2
+superhero,104241,0.997,2
+superhero,106072,0.9965,2
+superhero,110102,0.999,2
+superhero,110553,0.9968,2
+superhero,111362,0.993,2
+superhero,112183,0.8002,1
+superhero,112852,0.9955,2
+superhero,113348,0.9502,2
+superhero,115617,0.9872,2
+superhero,115927,0.9908,2
+superhero,122892,0.9982,2
+superhero,122898,0.8665,1
+superhero,122900,0.9992,2
+superhero,122902,0.9985,2
+superhero,122904,0.9988,2
+superhero,122910,0.8212,1
+superhero,122914,0.8,1
+superhero,122918,0.9812,2
+superhero,122920,0.999,2
+superhero,122922,0.9978,2
+superhero,122924,0.9972,2
+superhero,124867,0.9755,2
+superhero,129397,0.9695,2
+superhero,131739,0.9802,2
+superhero,135536,0.994,2
+superhero,136459,0.8838,1
+superhero,136864,0.9945,2
+superhero,138104,0.9598,2
+superhero,141131,0.994,2
+superhero,143355,0.9978,2
+superhero,148683,0.9775,2
+superhero,151345,0.9748,2
+superhero,155078,0.9688,2
+superhero,156000,0.9965,2
+superhero,159690,0.834,1
+superhero,161354,0.9342,2
+superhero,165219,0.9922,2
+superhero,167746,0.9712,2
+superhero,168252,0.997,2
+superhero,168420,0.9868,2
+superhero,168554,0.9565,2
+superhero,169902,0.919,2
+superhero,169982,0.9682,2
+superhero,170709,0.9918,2
+superhero,176681,0.9535,2
+superhero,179417,0.8718,1
+superhero,183915,0.8012,1
+superhero,188301,0.8022,1
+superhero,190017,0.816,1
+time travel,32,0.9748,2
+time travel,329,0.8208,1
+time travel,379,0.9868,2
+time travel,589,0.86,1
+time travel,1240,0.9442,2
+time travel,1270,0.9855,2
+time travel,1286,0.9522,2
+time travel,1356,0.956,2
+time travel,1376,0.9522,2
+time travel,1720,0.8885,1
+time travel,1831,0.8308,1
+time travel,2011,0.9808,2
+time travel,2012,0.9718,2
+time travel,2173,0.8732,1
+time travel,2469,0.928,2
+time travel,2533,0.8662,1
+time travel,2578,0.8955,1
+time travel,2615,0.9138,2
+time travel,2968,0.8055,1
+time travel,3440,0.82,1
+time travel,3474,0.976,2
+time travel,3510,0.9552,2
+time travel,3802,0.9268,2
+time travel,3959,0.971,2
+time travel,4240,0.8678,1
+time travel,4571,0.9665,2
+time travel,4625,0.983,2
+time travel,4738,0.944,2
+time travel,4878,0.9032,2
+time travel,4894,0.986,2
+time travel,4939,0.9702,2
+time travel,4980,0.8873,1
+time travel,4992,0.9162,2
+time travel,5171,0.962,2
+time travel,5544,0.9732,2
+time travel,6537,0.8002,1
+time travel,6882,0.8322,1
+time travel,6959,0.9222,2
+time travel,7254,0.9638,2
+time travel,8092,0.8168,1
+time travel,8477,0.9238,2
+time travel,8591,0.9695,2
+time travel,8914,0.9668,2
+time travel,26834,0.9675,2
+time travel,27618,0.9602,2
+time travel,27788,0.9595,2
+time travel,45668,0.865,1
+time travel,49278,0.9758,2
+time travel,51412,0.8105,1
+time travel,51698,0.8108,1
+time travel,52287,0.8285,1
+time travel,57504,0.9325,2
+time travel,58123,0.8968,1
+time travel,65133,0.897,1
+time travel,65642,0.9825,2
+time travel,65899,0.8968,1
+time travel,66365,0.9082,2
+time travel,67799,0.9535,2
+time travel,68358,0.9185,2
+time travel,69873,0.9138,2
+time travel,70599,0.9658,2
+time travel,71106,0.9812,2
+time travel,76077,0.904,2
+time travel,85414,0.9128,2
+time travel,86882,0.8195,1
+time travel,94777,0.9442,2
+time travel,94799,0.8842,1
+time travel,95088,0.9725,2
+time travel,96610,0.9875,2
+time travel,97280,0.9112,2
+time travel,104374,0.973,2
+time travel,106240,0.8282,1
+time travel,107410,0.8495,1
+time travel,109802,0.9395,2
+time travel,111362,0.9568,2
+time travel,111759,0.875,1
+time travel,114935,0.9852,2
+time travel,115680,0.9712,2
+time travel,120799,0.9365,2
+time travel,127096,0.977,2
+time travel,128975,0.9555,2
+time travel,148881,0.8108,1
+time travel,157498,0.961,2
+time travel,157961,0.9802,2
+time travel,162982,0.9172,2
+time travel,163985,0.929,2
+vampires,70,0.9905,2
+vampires,93,0.999,2
+vampires,152,0.9982,2
+vampires,184,0.9912,2
+vampires,253,0.999,2
+vampires,565,0.9878,2
+vampires,842,0.9975,2
+vampires,1329,0.8973,1
+vampires,1339,0.9792,2
+vampires,1348,0.9938,2
+vampires,1349,0.9985,2
+vampires,1771,0.988,2
+vampires,2167,0.999,2
+vampires,2328,0.9998,2
+vampires,2377,0.9835,2
+vampires,2644,0.9858,2
+vampires,2653,0.966,2
+vampires,2867,0.9978,2
+vampires,2868,0.9988,2
+vampires,3205,0.8188,1
+vampires,3216,0.9795,2
+vampires,3264,0.9845,2
+vampires,3550,0.9975,2
+vampires,3727,0.9992,2
+vampires,3796,0.9948,2
+vampires,3832,0.8625,1
+vampires,3974,0.9978,2
+vampires,4030,0.9985,2
+vampires,4036,0.9912,2
+vampires,4128,0.997,2
+vampires,4266,0.9995,2
+vampires,4561,0.8918,1
+vampires,4680,0.9922,2
+vampires,4753,0.997,2
+vampires,5128,0.9992,2
+vampires,5146,0.9945,2
+vampires,5203,0.949,2
+vampires,5254,0.9988,2
+vampires,5489,0.975,2
+vampires,5649,0.985,2
+vampires,6366,0.852,1
+vampires,6500,0.9982,2
+vampires,6665,0.985,2
+vampires,6744,0.9928,2
+vampires,6754,0.9995,2
+vampires,6910,0.9992,2
+vampires,7280,0.999,2
+vampires,7281,0.998,2
+vampires,7454,0.9838,2
+vampires,7492,0.9952,2
+vampires,7885,0.9918,2
+vampires,7886,0.9788,2
+vampires,7891,0.9842,2
+vampires,8004,0.9305,2
+vampires,8626,0.9868,2
+vampires,8928,0.998,2
+vampires,8985,0.9982,2
+vampires,25793,0.9688,2
+vampires,26134,0.9858,2
+vampires,26248,0.847,1
+vampires,26288,0.9485,2
+vampires,26774,0.9832,2
+vampires,27004,0.995,2
+vampires,27441,0.992,2
+vampires,27751,0.9308,2
+vampires,31502,0.992,2
+vampires,31804,0.929,2
+vampires,33294,0.9928,2
+vampires,42721,0.9798,2
+vampires,42738,0.9985,2
+vampires,49571,0.974,2
+vampires,53131,0.997,2
+vampires,55282,0.9992,2
+vampires,61240,0.9908,2
+vampires,62788,0.987,2
+vampires,63992,0.9972,2
+vampires,65682,0.9988,2
+vampires,69805,0.9905,2
+vampires,71304,0.9912,2
+vampires,72165,0.9935,2
+vampires,72407,0.9962,2
+vampires,73268,0.999,2
+vampires,73488,0.9832,2
+vampires,75351,0.9975,2
+vampires,78772,0.9968,2
+vampires,80350,0.819,1
+vampires,80831,0.9225,2
+vampires,81180,0.9978,2
+vampires,86835,0.9988,2
+vampires,88380,0.9798,2
+vampires,89030,0.99,2
+vampires,89072,0.9982,2
+vampires,91104,0.991,2
+vampires,91947,0.9655,2
+vampires,91974,0.996,2
+vampires,94478,0.9732,2
+vampires,95207,0.998,2
+vampires,98175,0.9988,2
+vampires,98203,0.9972,2
+vampires,98361,0.9988,2
+vampires,107771,0.997,2
+vampires,110809,0.9945,2
+vampires,114680,0.994,2
+vampires,114795,0.9942,2
+vampires,115122,0.9982,2
+vampires,118880,0.98,2
+vampires,144734,0.9735,2
+vampires,166558,0.992,2
+wedding,357,0.8918,1
+wedding,934,0.9515,2
+wedding,1463,0.9198,2
+wedding,1569,0.9295,2
+wedding,1593,0.9252,2
+wedding,2156,0.809,1
+wedding,2558,0.9288,2
+wedding,2724,0.914,2
+wedding,3004,0.9348,2
+wedding,4069,0.9705,2
+wedding,5135,0.9198,2
+wedding,5299,0.909,2
+wedding,5581,0.962,2
+wedding,5620,0.883,1
+wedding,6006,0.9205,2
+wedding,6012,0.886,1
+wedding,6586,0.8958,1
+wedding,6944,0.962,2
+wedding,26414,0.9122,2
+wedding,31433,0.9655,2
+wedding,33499,0.8718,1
+wedding,34162,0.931,2
+wedding,36477,0.8275,1
+wedding,44187,0.8015,1
+wedding,50514,0.8062,1
+wedding,53974,0.9492,2
+wedding,55261,0.8202,1
+wedding,56949,0.9805,2
+wedding,57538,0.8128,1
+wedding,59333,0.9755,2
+wedding,59421,0.9105,2
+wedding,62265,0.9355,2
+wedding,62344,0.8605,1
+wedding,65465,0.8832,1
+wedding,65585,0.9822,2
+wedding,69606,0.9332,2
+wedding,74154,0.8028,1
+wedding,81949,0.9378,2
+wedding,86817,0.806,1
+wedding,94503,0.948,2
+wedding,96565,0.8035,1
+wedding,101281,0.9428,2
+wedding,101942,0.9708,2
+wedding,103055,0.963,2
+wedding,105855,0.8482,1
+wedding,155743,0.9202,2
+wedding,160567,0.9245,2
+wedding,170401,0.9598,2
+werewolves,382,0.9825,2
+werewolves,1130,0.9968,2
+werewolves,1168,0.995,2
+werewolves,1321,0.9742,2
+werewolves,2654,0.98,2
+werewolves,2655,0.9972,2
+werewolves,2793,0.9938,2
+werewolves,2867,0.8338,1
+werewolves,2868,0.8873,1
+werewolves,4030,0.876,1
+werewolves,4425,0.9982,2
+werewolves,4514,0.9975,2
+werewolves,4561,0.969,2
+werewolves,5203,0.9642,2
+werewolves,5433,0.992,2
+werewolves,5555,0.976,2
+werewolves,5797,0.9758,2
+werewolves,5833,0.9972,2
+werewolves,6754,0.999,2
+werewolves,6820,0.9898,2
+werewolves,7036,0.8538,1
+werewolves,7454,0.994,2
+werewolves,8626,0.8755,1
+werewolves,27746,0.9875,2
+werewolves,27778,0.9955,2
+werewolves,32011,0.997,2
+werewolves,33294,0.9325,2
+werewolves,42738,0.9982,2
+werewolves,50796,0.9928,2
+werewolves,54270,0.998,2
+werewolves,63992,0.971,2
+werewolves,65682,0.9988,2
+werewolves,71500,0.912,2
+werewolves,72407,0.9982,2
+werewolves,74452,0.9172,2
+werewolves,78772,0.9972,2
+werewolves,85397,0.9678,2
+werewolves,88380,0.9822,2
+werewolves,91104,0.9942,2
+werewolves,91974,0.9968,2
+werewolves,98203,0.996,2
+werewolves,104312,0.9632,2
+werewolves,108689,0.913,2
+werewolves,115122,0.9778,2
+werewolves,130044,0.9848,2
+werewolves,144734,0.8145,1
+werewolves,145094,0.997,2
+werewolves,166558,0.9955,2
+world war ii,73,0.906,2
+world war ii,116,0.9468,2
+world war ii,515,0.9205,2
+world war ii,527,0.9888,2
+world war ii,665,0.8322,1
+world war ii,760,0.9945,2
+world war ii,893,0.9785,2
+world war ii,912,0.9568,2
+world war ii,925,0.9642,2
+world war ii,946,0.9958,2
+world war ii,966,0.9902,2
+world war ii,1071,0.9255,2
+world war ii,1096,0.9142,2
+world war ii,1161,0.9832,2
+world war ii,1183,0.809,1
+world war ii,1184,0.9665,2
+world war ii,1233,0.9675,2
+world war ii,1250,0.9735,2
+world war ii,1262,0.9785,2
+world war ii,1272,0.9482,2
+world war ii,1281,0.9798,2
+world war ii,1507,0.8692,1
+world war ii,1619,0.8995,1
+world war ii,1696,0.9675,2
+world war ii,1936,0.9885,2
+world war ii,1939,0.9715,2
+world war ii,1940,0.8225,1
+world war ii,1944,0.9752,2
+world war ii,2028,0.958,2
+world war ii,2106,0.9955,2
+world war ii,2202,0.9905,2
+world war ii,2238,0.9642,2
+world war ii,2324,0.959,2
+world war ii,2427,0.8215,1
+world war ii,2436,0.9865,2
+world war ii,2494,0.969,2
+world war ii,2670,0.9932,2
+world war ii,2750,0.8805,1
+world war ii,2852,0.965,2
+world war ii,2882,0.9838,2
+world war ii,2944,0.9898,2
+world war ii,3003,0.9875,2
+world war ii,3035,0.9912,2
+world war ii,3062,0.954,2
+world war ii,3066,0.9652,2
+world war ii,3106,0.9778,2
+world war ii,3137,0.9122,2
+world war ii,3143,0.992,2
+world war ii,3154,0.8652,1
+world war ii,3196,0.9798,2
+world war ii,3204,0.9208,2
+world war ii,3215,0.9955,2
+world war ii,3230,0.9868,2
+world war ii,3339,0.983,2
+world war ii,3367,0.9678,2
+world war ii,3372,0.996,2
+world war ii,3377,0.977,2
+world war ii,3378,0.9305,2
+world war ii,3519,0.9935,2
+world war ii,3545,0.865,1
+world war ii,3555,0.9655,2
+world war ii,3628,0.9938,2
+world war ii,3643,0.9978,2
+world war ii,3654,0.9808,2
+world war ii,3670,0.991,2
+world war ii,3808,0.9338,2
+world war ii,3836,0.995,2
+world war ii,3854,0.9545,2
+world war ii,3985,0.9948,2
+world war ii,3992,0.8498,1
+world war ii,4103,0.9542,2
+world war ii,4117,0.99,2
+world war ii,4223,0.9698,2
+world war ii,4278,0.9912,2
+world war ii,4338,0.9958,2
+world war ii,4339,0.9882,2
+world war ii,4347,0.969,2
+world war ii,4349,0.8822,1
+world war ii,4363,0.9982,2
+world war ii,4424,0.9932,2
+world war ii,4478,0.983,2
+world war ii,4594,0.9868,2
+world war ii,4595,0.8145,1
+world war ii,4727,0.898,1
+world war ii,4769,0.9832,2
+world war ii,4795,0.9832,2
+world war ii,4806,0.9712,2
+world war ii,4826,0.9682,2
+world war ii,4840,0.969,2
+world war ii,4916,0.9972,2
+world war ii,4917,0.9248,2
+world war ii,4918,0.9975,2
+world war ii,4922,0.9198,2
+world war ii,4923,0.9982,2
+world war ii,4924,0.9915,2
+world war ii,4939,0.933,2
+world war ii,4983,0.9505,2
+world war ii,5001,0.9982,2
+world war ii,5011,0.979,2
+world war ii,5085,0.8302,1
+world war ii,5107,0.9848,2
+world war ii,5196,0.9278,2
+world war ii,5304,0.9912,2
+world war ii,5316,0.9682,2
+world war ii,5345,0.982,2
+world war ii,5368,0.9612,2
+world war ii,5373,0.9672,2
+world war ii,5379,0.942,2
+world war ii,5406,0.9962,2
+world war ii,5420,0.9732,2
+world war ii,5425,0.9648,2
+world war ii,5615,0.8645,1
+world war ii,5682,0.9925,2
+world war ii,5690,0.9135,2
+world war ii,5732,0.9532,2
+world war ii,5789,0.924,2
+world war ii,5825,0.9682,2
+world war ii,5953,0.9935,2
+world war ii,5995,0.9958,2
+world war ii,6041,0.9795,2
+world war ii,6042,0.854,1
+world war ii,6107,0.9938,2
+world war ii,6147,0.9722,2
+world war ii,6216,0.9948,2
+world war ii,6235,0.9985,2
+world war ii,6416,0.9915,2
+world war ii,6434,0.904,2
+world war ii,6437,0.9942,2
+world war ii,6441,0.9875,2
+world war ii,6445,0.8385,1
+world war ii,6450,0.9732,2
+world war ii,6454,0.9638,2
+world war ii,6457,0.991,2
+world war ii,6459,0.9968,2
+world war ii,6497,0.943,2
+world war ii,6498,0.8618,1
+world war ii,6777,0.9965,2
+world war ii,6808,0.997,2
+world war ii,6818,0.9878,2
+world war ii,6896,0.8662,1
+world war ii,6923,0.9948,2
+world war ii,6939,0.8745,1
+world war ii,6971,0.9338,2
+world war ii,6982,0.8625,1
+world war ii,7025,0.9762,2
+world war ii,7241,0.9465,2
+world war ii,7283,0.991,2
+world war ii,7303,0.9785,2
+world war ii,7479,0.999,2
+world war ii,7489,0.9708,2
+world war ii,7586,0.996,2
+world war ii,7787,0.9945,2
+world war ii,7809,0.9798,2
+world war ii,7821,0.982,2
+world war ii,7980,0.9732,2
+world war ii,8128,0.9885,2
+world war ii,8140,0.9948,2
+world war ii,8257,0.9942,2
+world war ii,8337,0.9272,2
+world war ii,8446,0.9968,2
+world war ii,8484,0.9725,2
+world war ii,8493,0.9858,2
+world war ii,8516,0.869,1
+world war ii,8540,0.9665,2
+world war ii,8543,0.994,2
+world war ii,8675,0.9882,2
+world war ii,8692,0.9932,2
+world war ii,8700,0.9955,2
+world war ii,8710,0.9555,2
+world war ii,8730,0.9598,2
+world war ii,8773,0.9162,2
+world war ii,8779,0.9888,2
+world war ii,8868,0.898,1
+world war ii,9014,0.8482,1
+world war ii,25893,0.9895,2
+world war ii,25904,0.8402,1
+world war ii,25906,0.9048,2
+world war ii,25916,0.9938,2
+world war ii,25927,0.9348,2
+world war ii,26003,0.9765,2
+world war ii,26009,0.989,2
+world war ii,26049,0.96,2
+world war ii,26073,0.8602,1
+world war ii,26138,0.886,1
+world war ii,26139,0.9945,2
+world war ii,26148,0.9685,2
+world war ii,26158,0.9652,2
+world war ii,26463,0.8715,1
+world war ii,26476,0.9715,2
+world war ii,26491,0.993,2
+world war ii,26560,0.9125,2
+world war ii,26791,0.975,2
+world war ii,27724,0.9448,2
+world war ii,27816,0.9695,2
+world war ii,30721,0.9932,2
+world war ii,31410,0.975,2
+world war ii,31522,0.9608,2
+world war ii,31584,0.9952,2
+world war ii,31903,0.883,1
+world war ii,31973,0.9255,2
+world war ii,32025,0.9108,2
+world war ii,32234,0.8838,1
+world war ii,32261,0.9968,2
+world war ii,32721,0.9825,2
+world war ii,32844,0.9725,2
+world war ii,32853,0.9932,2
+world war ii,32892,0.9548,2
+world war ii,33113,0.8155,1
+world war ii,33124,0.995,2
+world war ii,34536,0.9848,2
+world war ii,41828,0.965,2
+world war ii,42018,0.8632,1
+world war ii,42213,0.8592,1
+world war ii,42681,0.999,2
+world war ii,43376,0.992,2
+world war ii,43677,0.9525,2
+world war ii,46855,0.9812,2
+world war ii,47306,0.9122,2
+world war ii,47728,0.8542,1
+world war ii,48783,0.9622,2
+world war ii,48909,0.9855,2
+world war ii,49200,0.91,2
+world war ii,49688,0.955,2
+world war ii,49766,0.9982,2
+world war ii,50064,0.9605,2
+world war ii,50068,0.9762,2
+world war ii,51007,0.9302,2
+world war ii,52042,0.9975,2
+world war ii,52319,0.996,2
+world war ii,53737,0.9925,2
+world war ii,55253,0.8438,1
+world war ii,58303,0.997,2
+world war ii,58490,0.8712,1
+world war ii,60137,0.991,2
+world war ii,60503,0.993,2
+world war ii,61991,0.9725,2
+world war ii,64034,0.9888,2
+world war ii,64622,0.9472,2
+world war ii,64983,0.9858,2
+world war ii,65216,0.9902,2
+world war ii,66544,0.9622,2
+world war ii,68157,0.985,2
+world war ii,68872,0.9678,2
+world war ii,69324,0.989,2
+world war ii,70451,0.9912,2
+world war ii,71011,0.9925,2
+world war ii,75983,0.8515,1
+world war ii,81568,0.9948,2
+world war ii,83369,0.8832,1
+world war ii,83450,0.9822,2
+world war ii,88140,0.8487,1
+world war ii,91290,0.972,2
+world war ii,92234,0.9842,2
+world war ii,92243,0.8562,1
+world war ii,95604,0.818,1
+world war ii,98604,0.8338,1
+world war ii,100062,0.9598,2
+world war ii,100440,0.9905,2
+world war ii,101527,0.9495,2
+world war ii,104283,0.9102,2
+world war ii,106441,0.989,2
+world war ii,108928,0.9918,2
+world war ii,115210,0.9728,2
+world war ii,115969,0.903,2
+world war ii,116529,0.9368,2
+world war ii,116797,0.945,2
+world war ii,116801,0.9988,2
+world war ii,118702,0.962,2
+world war ii,126430,0.945,2
+world war ii,130474,0.993,2
+world war ii,131796,0.9412,2
+world war ii,135504,0.9185,2
+world war ii,140627,0.9342,2
+world war ii,142492,0.9765,2
+world war ii,156944,0.8632,1
+world war ii,161954,0.989,2
+world war ii,163645,0.9058,2
+world war ii,164981,0.964,2
+world war ii,169756,0.9512,2
+world war ii,170645,0.9962,2
+world war ii,170705,0.9525,2
+world war ii,174055,0.909,2
+zombies,735,0.9572,2
+zombies,968,0.9658,2
+zombies,1241,0.9755,2
+zombies,2613,0.9335,2
+zombies,3652,0.9695,2
+zombies,3970,0.8172,1
+zombies,4497,0.9172,2
+zombies,4532,0.9782,2
+zombies,4533,0.9838,2
+zombies,4541,0.9612,2
+zombies,5160,0.994,2
+zombies,5165,0.9848,2
+zombies,5195,0.9835,2
+zombies,5210,0.9942,2
+zombies,5219,0.9595,2
+zombies,5413,0.9918,2
+zombies,5542,0.994,2
+zombies,5595,0.9818,2
+zombies,5884,0.9738,2
+zombies,6502,0.9655,2
+zombies,6731,0.9882,2
+zombies,6872,0.9215,2
+zombies,7360,0.9845,2
+zombies,7387,0.9872,2
+zombies,7657,0.94,2
+zombies,7881,0.9788,2
+zombies,7882,0.9935,2
+zombies,7883,0.9175,2
+zombies,7891,0.8615,1
+zombies,8225,0.9472,2
+zombies,8578,0.9795,2
+zombies,8861,0.9555,2
+zombies,8874,0.981,2
+zombies,33834,0.9905,2
+zombies,40226,0.9835,2
+zombies,53000,0.9498,2
+zombies,53468,0.9878,2
+zombies,54995,0.9642,2
+zombies,55232,0.9785,2
+zombies,56174,0.8338,1
+zombies,57274,0.8165,1
+zombies,58332,0.959,2
+zombies,58485,0.965,2
+zombies,59129,0.9188,2
+zombies,60363,0.9735,2
+zombies,67073,0.9892,2
+zombies,67168,0.9882,2
+zombies,69275,0.9858,2
+zombies,71535,0.9875,2
+zombies,72787,0.9702,2
+zombies,73211,0.9585,2
+zombies,74685,0.8795,1
+zombies,74750,0.8535,1
+zombies,75425,0.9828,2
+zombies,80162,0.984,2
+zombies,80363,0.9522,2
+zombies,83923,0.9292,2
+zombies,88248,0.9322,2
+zombies,88380,0.8627,1
+zombies,89072,0.8873,1
+zombies,91947,0.933,2
+zombies,96281,0.8475,1
+zombies,96415,0.8925,1
+zombies,96691,0.9222,2
+zombies,97643,0.9378,2
+zombies,98087,0.988,2
+zombies,99007,0.986,2
+zombies,99413,0.9882,2
+zombies,103249,0.9875,2
+zombies,103816,0.9845,2
+zombies,106030,0.8975,1
+zombies,111663,0.82,1
+zombies,116668,0.9605,2
+zombies,117895,0.84,1
+zombies,127321,0.905,2
+zombies,128542,0.9845,2
+zombies,133782,0.9382,2
+zombies,136247,0.8312,1
+zombies,140131,0.9382,2
+zombies,141408,0.9862,2
+zombies,141799,0.9158,2
+zombies,144734,0.9755,2
+zombies,149830,0.9885,2
+zombies,152055,0.9572,2
+zombies,160674,0.9898,2
+zombies,162082,0.9825,2
+zombies,164367,0.9772,2
+zombies,168498,0.8752,1
+zombies,170961,0.9535,2
